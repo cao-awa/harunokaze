@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#8e8e8e"
      inkscape:document-units="mm"
-     inkscape:zoom="16"
-     inkscape:cx="50077.875"
-     inkscape:cy="45867.281"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="50038.765"
+     inkscape:cy="46062.969"
      inkscape:window-width="3840"
      inkscape:window-height="2126"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g79"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      shape-rendering="auto"
@@ -72,50 +72,99 @@
          transform="translate(12410.048,11050.975)">
         <path
            style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0"
-           d="m 804.06595,1033.4174 -9.66283,16.3615 -6.33511,9.6354 -5.58068,6.5661 -6.44691,7.2862 -5.70309,5.4323 2.07161,1.3824 8.70321,3.2511 8.85455,1.0695 14.41462,0.655 11.31166,-0.034 13.49439,-0.015 6.54074,0.095 -0.41904,-45.9158 -2.31775,-4.2731 z"
+           d="m 804.06595,1033.4174 -9.66283,16.3615 -6.33511,9.6354 -1.50133,8.0985 0.3017,5.7781 1.29194,5.166 3.6329,2.0274 4.95901,0.833 8.73476,0.012 2.66875,0.7092 2.20533,-0.3984 4.25537,-0.2671 15.67794,0.2549 5.84047,-0 -0.82574,-42.4366 -2.31775,-4.2731 z"
            id="path4"
            transform="rotate(-0.49999877,819.74068,1022.4074)"
-           inkscape:label="区域规划-范围" />
+           inkscape:label="区域规划-范围"
+           sodipodi:nodetypes="ccccccccccccccccc" />
         <path
            style="fill:#a5f2bd;fill-opacity:1;stroke:#000000;stroke-width:0"
-           d="m 804.2159,1033.5399 0.73174,0.033 -2.24896,4.4649 -0.51451,-0.2865 -0.79513,1.4382 0.58465,0.3158 -2.41461,3.9464 -2.91158,5.1216 -0.60889,-0.3521 -2.84427,4.5631 0.80203,0.4547 -3.76835,5.858 -4.8877,6.4312 -5.12154,6.057 -3.3442,3.6014 -5.28527,4.9111 -1.20877,-1.6473 8.17904,-7.5505 8.58242,-10.7321 6.10195,-9.062 9.37869,-15.1611 z"
+           d="m 804.2159,1033.5399 0.73174,0.033 -2.24896,4.4649 -0.51451,-0.2865 -0.79513,1.4382 0.58465,0.3158 -2.41461,3.9464 -2.91158,5.1216 -0.60889,-0.3521 -2.84427,4.5631 0.80203,0.4547 -3.76835,5.858 -4.8877,6.4312 -5.12154,6.057 -3.3442,3.6014 -7.47187,7.1562 -1.1503,-1.5538 10.30717,-9.8891 8.58242,-10.7321 6.10195,-9.062 9.37869,-15.1611 z"
            id="path6"
-           inkscape:label="区域规划2" />
-      </g>
-      <g
-         id="g6"
-         inkscape:label="住宅"
-         transform="translate(12412.115,11051.984)">
-        <path
-           style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
-           d="m 820.98312,1060.0009 8.00572,-0.01 0.004,14.9848 -8.00222,0.01 z"
-           id="path7-0"
-           inkscape:label="住宅3"
-           sodipodi:nodetypes="ccccc" />
-        <path
-           style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
-           d="m 806.98062,1060.0314 8.00572,-0.01 0.004,14.9848 -8.00222,0.01 z"
-           id="path7-0-8"
-           inkscape:label="住宅3"
-           sodipodi:nodetypes="ccccc" />
-        <path
-           style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
-           d="m 792.95239,1059.968 8.00572,-0.01 0.004,14.9848 -8.00222,0.01 z"
-           id="path7-0-3"
-           inkscape:label="住宅3"
-           sodipodi:nodetypes="ccccc" />
-        <path
-           style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
-           d="m 822.99134,1037.0208 8.02143,0.4794 -0.0116,14.4965 -8.00222,0.01 z"
-           id="path7"
-           inkscape:label="住宅2"
-           transform="translate(-2.0174479,-1.008724)" />
-        <path
-           style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
-           d="m 801.97847,1040.9897 -4.01214,7.9107 2.02093,0.9663 2.00319,0.9729 3.47101,-7.8398 1.22899,-2.0104 1.27061,-0.6777 3.02735,0.1354 4.99678,0.3279 0.004,-1.7768 0.01,-1.9991 -0.0195,-1.0109 -4.9762,-0.4167 -3.03317,-0.2969 -1.99089,0.1327 -0.99752,0.7096 -1.38258,1.8659 z"
-           id="path3"
-           inkscape:label="住宅1"
-           sodipodi:nodetypes="cccccccccccccccccc" />
+           inkscape:label="绿化区域规划1"
+           sodipodi:nodetypes="cccccccccccccccccccccc" />
+        <g
+           id="g6"
+           inkscape:label="住宅"
+           transform="translate(2.0670771,1.0089708)"
+           style="display:inline">
+          <path
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
+             d="m 13220.794,12119.444 5.491,-0.01 v 10.278 l -5.488,0.01 z"
+             id="path7-0-1"
+             inkscape:label="住宅9"
+             sodipodi:nodetypes="ccccc"
+             transform="translate(-12412.115,-11051.984)" />
+          <path
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
+             d="m 13220.739,12107.662 5.491,-0.01 v 10.279 l -5.489,0.01 z"
+             id="path7-0-9-1"
+             inkscape:label="住宅8"
+             sodipodi:nodetypes="ccccc"
+             transform="translate(-12412.115,-11051.984)" />
+          <path
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
+             d="m 13211.329,12119.474 h 5.491 v 10.278 l -5.489,0.01 z"
+             id="path7-0-8-1"
+             inkscape:label="住宅7"
+             sodipodi:nodetypes="ccccc"
+             transform="translate(-12412.115,-11051.984)" />
+          <path
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
+             d="m 13211.347,12107.73 5.491,-0.01 v 10.278 l -5.489,0.01 z"
+             id="path7-0-3-5"
+             inkscape:label="住宅6"
+             sodipodi:nodetypes="ccccc"
+             transform="translate(-12412.115,-11051.984)" />
+          <path
+             style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
+             d="m 827.15212,1067.591 5.49113,-0.01 0.003,10.2781 -5.48873,0.01 z"
+             id="path7-0"
+             inkscape:label="住宅5"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
+             d="m 827.09678,1055.8095 5.49113,-0.01 0.003,10.2781 -5.48873,0.01 z"
+             id="path7-0-9"
+             inkscape:label="住宅5"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
+             d="m 817.68652,1067.6215 5.49113,-0.01 0.003,10.2781 -5.48873,0.01 z"
+             id="path7-0-8"
+             inkscape:label="住宅4"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
+             d="m 817.70453,1055.877 5.49113,-0.01 0.003,10.2781 -5.48873,0.01 z"
+             id="path7-0-3"
+             inkscape:label="住宅3"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
+             d="m 818.62872,1036.2988 5.50188,0.3288 -0.009,9.943 -5.48872,0.01 z"
+             id="path7"
+             inkscape:label="住宅2" />
+          <path
+             style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
+             d="m 801.97847,1040.9897 -4.01214,7.9107 2.02093,0.9663 2.00319,0.9729 3.47101,-7.8398 1.22899,-2.0104 1.27061,-0.6777 3.02735,0.1354 4.99678,0.3279 0.004,-1.7768 0.01,-1.9991 -0.0195,-1.0109 -4.9762,-0.4167 -3.03317,-0.2969 -1.99089,0.1327 -0.99752,0.7096 -1.38258,1.8659 z"
+             id="path3"
+             inkscape:label="X酒店P2"
+             sodipodi:nodetypes="cccccccccccccccccc" />
+          <path
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0"
+             d="m 788.04488,1070.6384 0.65198,3.9173 1.62108,2.4347 4.37286,0.6512 -1.54456,-3.8352 -0.9833,-4.2094 -0.2253,-1.9632 -0.11857,-2.7575 1.95589,-3.1206 3.56621,-6.1312 c 1.01175,-1.9797 2.11453,-3.9426 3.18612,-5.8881 l -1.62032,-0.5978 -0.77258,-0.516 -3.18719,5.6288 -1.17256,-0.8008 -3.08833,4.8726 -1.9571,2.9405 -1.10354,1.8056 -0.15686,2.3764 0.15477,2.2035 z"
+             id="path3-4"
+             inkscape:label="X酒店P1"
+             sodipodi:nodetypes="ccccccccccccccccccccc" />
+          <path
+             style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 796.73223,1055.0366 c 0.174,0.174 3.51383,2.1582 3.51383,2.1582 l 3.00596,-5.7495 -3.63019,-1.6994 z"
+             id="path69"
+             inkscape:label="酒店天桥范围"
+             sodipodi:nodetypes="ccccc"
+             transform="translate(-2.0671896,-1.0088562)" />
+        </g>
       </g>
       <g
          id="g18"
@@ -143,10 +192,10 @@
          inkscape:label="区域规划">
         <path
            style="fill:#a5f2bd;fill-opacity:1;stroke-width:0.264583"
-           d="m 801.24442,1033.4125 2.94193,-6.4307 2.15849,-7.2375 1.38465,-4.0089 1.31791,-3.7669 2.686,-2.0901 3.83956,-0.8589 4.05452,0.4124 5.71955,1.7787 c 1.71912,0.7464 10.02827,2.3614 11.75981,3.0784 l 0.0533,20.7355 z"
+           d="m 801.24442,1033.4125 2.94193,-6.4307 2.15849,-7.2375 1.38465,-4.0089 1.31791,-3.7669 2.686,-2.0901 3.83956,-0.8589 4.05452,0.4124 5.71955,1.7787 c 1.71912,0.7464 45.67521,2.5251 47.40675,3.2421 l 59.95805,-5.3119 41.26142,-8.6498 10.63156,-1.95326 0.60933,3.30596 -9.49346,2.4231 -20.9887,3.9584 -20.98871,3.9585 -29.36259,2.6459 -31.13124,1.6557 -36.68306,-0.2124 0.59376,18.7516 z"
            id="path30"
            inkscape:label="区域规划1"
-           sodipodi:nodetypes="cccccccccccc" />
+           sodipodi:nodetypes="cccccccccccccccccccccc" />
         <path
            style="fill:#a5f2bd;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
            d="m 834.47735,1034.8693 0.76538,2.0213 0.20155,-0.8097 -0.1887,-1.1708 z"
@@ -460,19 +509,19 @@
            inkscape:label="河堤">
           <path
              style="fill:#a5f2bd;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-             d="m 801.55473,1033.0591 1.30964,0.152 -2.93495,5.5074 -8.37223,14.3824 -9.86893,12.8858 -11.7749,11.8216 -1.68377,-1.941 16.49886,-18.5803 11.36565,-16.8379 z"
+             d="m 801.55473,1033.0591 1.30964,0.152 -2.93495,5.5074 -8.37223,14.3824 -9.86893,12.8858 -11.7749,11.8216 -18.31339,15.9851 -10.46637,5.936 -20.20561,6.8416 -1.65947,-3.7431 13.72454,-5.9013 15.65589,-6.0494 19.58064,-15.0099 16.49886,-18.5803 11.36565,-16.8379 z"
              id="path2"
              inkscape:label="河堤1"
-             sodipodi:nodetypes="cccccccccc" />
+             sodipodi:nodetypes="cccccccccccccccc" />
         </g>
         <g
            id="g2"
            inkscape:label="道路">
           <path
              style="fill:#d3e0f0;fill-opacity:1;stroke-width:0.264583"
-             d="m 802.36861,1033.4305 1.24676,-2.7391 1.42215,-3.4174 1.15321,-4.2242 0.89597,-3.0315 0.4786,-1.7415 0.54246,-2.0598 0.4775,-1.5234 c 0.27778,-0.808 0.5577,-1.6152 0.84336,-2.4205 l 1.20509,-0.9364 1.19479,-0.8687 c 0.47274,-0.2302 1.07108,-0.417 1.59334,-0.5569 l 1.69305,-0.4413 c 0.73479,0.02 1.31244,0.055 2.01263,0.1097 l 2.06173,0.2797 c 0.63409,0.1279 1.24409,0.3555 1.86037,0.5495 l 1.64536,0.5684 1.81901,0.5788 c 0.41575,0.2734 0.99015,0.4509 1.39307,0.7346 l 1.70369,0.8082 1.49006,0.5636 3.98658,0.8612 3.06783,0.4944 3.06784,0.4943 3.13398,0.1472 3.33242,0.048 c -0.0245,0.3579 0.0141,0.7084 0.0549,1.0627 l -3.35879,-0.041 -3.16036,-0.1406 -3.0942,-0.4879 -3.09421,-0.4879 -4.14167,-0.8933 -1.69706,-0.5603 c -0.77709,-0.2693 -1.14054,-0.542 -1.85102,-0.8659 l -1.3631,-0.7646 -1.62734,-0.6796 -1.70759,-0.5539 -1.90253,-0.5162 -1.66676,-0.2182 -1.81973,-0.133 -1.37559,0.4252 -1.59515,0.6158 -1.76678,1.4254 -0.58911,1.9265 -0.48577,1.6909 -0.3824,1.9326 -0.57134,1.8049 c -0.0524,0.3033 -0.49854,1.8234 -0.82931,3.2301 -0.33289,1.4157 -0.5704,2.3345 -1.1286,4.129 -0.49723,1.5985 -0.81272,2.2865 -1.25041,3.5218 -0.4882,1.3779 -1.20755,2.6201 -1.28094,2.923 l -1.1748,2.3094 -1.21261,2.3692 -1.43489,2.3694 -1.20709,2.0363 -1.52401,2.5801 -1.46254,2.5233 -1.93342,3.096 -2.51131,4.2409 -2.59481,3.6936 -2.4379,3.1027 -2.81854,3.6723 -3.1761,3.579 -3.63755,4.0147 -3.51132,3.3556 -2.44219,2.268 -1.48128,-2.0004 1.29289,-1.0175 1.60286,-1.5614 2.51082,-2.3607 3.81488,-3.9541 2.96062,-3.6254 3.23995,-3.9956 2.48864,-3.2137 2.41348,-3.2449 2.50912,-4.1184 1.6765,-2.9851 1.74088,-2.7466 1.57193,-2.3331 1.55194,-2.3727 1.1789,-1.7862 1.07066,-1.954 z"
+             d="m 802.36861,1033.4305 1.24676,-2.7391 1.42215,-3.4174 1.19042,-4.1539 0.85876,-3.1018 0.4786,-1.7415 0.54246,-2.0598 0.4775,-1.5234 c 0.27778,-0.808 0.5577,-1.6152 0.84336,-2.4205 l 1.20509,-0.9364 1.19479,-0.8687 c 0.47274,-0.2302 1.07108,-0.417 1.59334,-0.5569 l 1.69305,-0.4413 c 0.73479,0.02 1.31244,0.055 2.01263,0.1097 l 2.06173,0.2797 c 0.63409,0.1279 1.24409,0.3555 1.86037,0.5495 l 1.64536,0.5684 1.81901,0.5788 c 0.41575,0.2734 0.99015,0.4509 1.39307,0.7346 l 1.70369,0.8082 1.49006,0.5636 3.98658,0.8612 3.06783,0.4944 3.06784,0.4943 3.08437,0.1968 3.44818,0.1968 4.36499,0.2006 9.18173,0.1944 11.6387,0.013 16.30821,-0.7068 16.01279,-1.08 27.94737,-2.2432 27.12446,-4.808 9.72359,-2.3222 16.21699,-3.3986 0.18062,1.1772 -16.14288,3.2118 -9.57911,2.2766 -26.77019,4.7645 -28.69859,2.2344 -15.84157,0.9976 -16.44221,0.7867 -11.7295,0.065 -9.13627,-0.2477 -4.38204,-0.1578 -3.24788,-0.1801 -3.1769,-0.1777 -3.17688,-0.4052 -3.09421,-0.4879 -4.14167,-0.8933 -1.69706,-0.5603 c -0.77709,-0.2693 -1.14054,-0.542 -1.85102,-0.8659 l -1.3631,-0.7646 -1.62734,-0.6796 -1.70759,-0.5539 -1.90253,-0.5162 -1.66676,-0.2182 -1.81973,-0.133 -1.37559,0.4252 -1.59515,0.6158 -1.76678,1.4254 -0.58911,1.9265 -0.48577,1.6909 -0.3824,1.9326 -0.57134,1.8049 c -0.0524,0.3033 -0.51301,1.8193 -0.84378,3.226 -0.33289,1.4157 -0.55593,2.3386 -1.11413,4.1331 -0.49723,1.5985 -0.87887,2.2782 -1.31656,3.5135 -0.4882,1.3779 -1.19928,2.6036 -1.27267,2.9065 l -1.11692,2.3342 -1.21261,2.3692 -1.43489,2.3694 -1.20709,2.0363 -1.56535,2.5801 -1.4212,2.5233 -1.93342,3.096 -2.51131,4.2409 -2.66922,3.6192 -2.42196,3.1537 -2.76007,3.6957 -3.1761,3.579 -3.63755,4.0147 -3.67502,3.3439 -2.33696,2.2095 -6.60397,5.5646 -5.62576,4.37 -8.63588,7.5232 -5.11839,3.6585 -6.10511,1.9712 -7.79359,2.6715 -4.96754,1.9475 -0.92437,-2.3188 4.94775,-1.876 8.28811,-2.9675 5.71531,-1.8454 3.88174,-2.7564 9.16621,-7.8601 5.82614,-4.2954 3.08639,-2.4143 3.61555,-3.0923 1.24611,-1.0994 1.69641,-1.4678 2.58098,-2.4192 3.80318,-3.9892 3.07755,-3.6254 2.94178,-4.0891 2.38925,-3.2488 2.47136,-3.2036 2.6166,-4.077 1.81706,-3.0265 1.64167,-2.8044 1.47271,-2.3083 1.43618,-2.3479 1.18717,-1.8193 1.07066,-1.954 z"
              id="path31"
-             sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+             sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
              inkscape:label="区域规划1" />
         </g>
       </g>
@@ -481,9 +530,9 @@
          inkscape:label="标题">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.35448px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#241c1c;fill-opacity:1;stroke-width:0.017095"
-           x="-255.26382"
-           y="1300.5239"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.577413px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#241c1c;fill-opacity:1;stroke-width:0.0278461"
+           x="-255.74756"
+           y="1300.1184"
            id="text34-1-2-1-7"
            transform="rotate(-46.876969)"
            inkscape:label="标题6"
@@ -491,14 +540,14 @@
            inkscape:transform-center-y="-0.62839164"><tspan
              sodipodi:role="line"
              id="tspan36-1-48-9"
-             x="-255.26382"
-             y="1300.5239"
-             style="stroke-width:0.017095">环江长线</tspan></text>
+             x="-255.74756"
+             y="1300.1184"
+             style="stroke-width:0.0278461">环江长线</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.35448px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#241c1c;fill-opacity:1;stroke-width:0.017095"
-           x="-596.34534"
-           y="1175.3348"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.577413px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#241c1c;fill-opacity:1;stroke-width:0.0278461"
+           x="-596.729"
+           y="1175.0636"
            id="text34-1-2-1-8"
            transform="rotate(-63.876969)"
            inkscape:label="标题5"
@@ -506,14 +555,14 @@
            inkscape:transform-center-y="-0.81851293"><tspan
              sodipodi:role="line"
              id="tspan36-1-48-8"
-             x="-596.34534"
-             y="1175.3348"
-             style="stroke-width:0.017095">环江长线</tspan></text>
+             x="-596.729"
+             y="1175.0636"
+             style="stroke-width:0.0278461">环江长线</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.35448px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#241c1c;fill-opacity:1;stroke-width:0.017095"
-           x="-578.84302"
-           y="1176.7457"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.577413px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#241c1c;fill-opacity:1;stroke-width:0.0278461"
+           x="-579.30078"
+           y="1176.589"
            id="text34-1-2-1"
            transform="rotate(-63.876969)"
            inkscape:label="标题4"
@@ -521,48 +570,48 @@
            inkscape:transform-center-y="-0.81851293"><tspan
              sodipodi:role="line"
              id="tspan36-1-48"
-             x="-578.84302"
-             y="1176.7457"
-             style="stroke-width:0.017095">环江长线</tspan></text>
+             x="-579.30078"
+             y="1176.589"
+             style="stroke-width:0.0278461">环江长线</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.35448px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.017095"
-           x="-900.19714"
-           y="942.20068"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.577413px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.0278461"
+           x="-900.52454"
+           y="941.86633"
            id="text34-1-2-8"
            transform="rotate(-82)"
            inkscape:label="标题3"><tspan
              sodipodi:role="line"
              id="tspan36-1-4"
-             x="-900.19714"
-             y="942.20068"
-             style="stroke-width:0.017095">环江长线</tspan></text>
+             x="-900.52454"
+             y="941.86633"
+             style="stroke-width:0.0278461">环江长线</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.35448px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.017095"
-           x="917.59045"
-           y="919.30835"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.577413px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.0278461"
+           x="917.14325"
+           y="919.38055"
            id="text34-1"
            transform="rotate(6)"
            inkscape:label="标题2"><tspan
              sodipodi:role="line"
              id="tspan36"
-             x="917.59045"
-             y="919.30835"
-             style="stroke-width:0.017095">环江长线</tspan></text>
+             x="917.14325"
+             y="919.38055"
+             style="stroke-width:0.0278461">环江长线</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.35448px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.017095"
-           x="1075.7413"
-           y="746.46075"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.577413px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.0278461"
+           x="1075.293"
+           y="746.53339"
            id="text34-1-2"
            transform="rotate(16)"
            inkscape:label="标题1"><tspan
              sodipodi:role="line"
              id="tspan36-1"
-             x="1075.7413"
-             y="746.46075"
-             style="stroke-width:0.017095">环江长线</tspan></text>
+             x="1075.293"
+             y="746.53339"
+             style="stroke-width:0.0278461">环江长线</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.518797px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.226847"
@@ -592,8 +641,8 @@
            id="path29"
            style="fill:#11d6ff;fill-opacity:1;stroke-width:0.264583"
            inkscape:label="青江-区域规划1"
-           d="m 870.85224,1015.2875 c -7.77188,0.1751 -11.92277,0.017 -19.6194,-0.204 -5.59514,0.056 -8.99251,-0.3422 -13.94091,-0.6067 l -6.75856,-1.1075 c -1.78296,-0.7012 -3.99179,-1.6379 -6.40076,-2.5061 l -4.50306,-1.4282 -4.05144,-0.4134 -3.83645,0.8599 -2.67891,2.0836 -1.32292,3.7372 -1.17761,3.7897 -2.15406,7.5384 -3.13628,6.7666 -4.17696,6.6846 -4.43421,6.8251 -3.96648,6.8251 -4.90193,6.2872 -5.69705,7.1757 -9.25174,9 -11.12029,-10.4266 6.66114,-7.0152 4.06529,-4.887 4.93057,-6.7111 4.01853,-5.495 4.29914,-6.8048 3.97175,-6.7813 3.2,-7.1554 2.89598,-7.3192 2.497,-6.9784 3.80954,-6.0273 6.65804,-4.77102 8.53281,-2.62929 8.02018,-0.19844 8.56485,1.88982 c 3.96419,1.46112 8.18974,2.28262 12.28763,3.3357 l 10.20299,1.76943 18.65262,0.2428 c 3.965,-0.1554 12.49595,-0.93755 16.5965,-1.24074 l 18.59075,-2.00135 23.64948,-3.42824 22.58086,-4.20066 23.67527,-6.55979 23.2471,-7.81517 37.83536,-11.77592 40.9822,-9.12261 1.2909,18.06756 -38.6667,8.85282 -33.6813,10.6313 -24.90363,9.2381 -25.97573,5.5332 -24.48923,4.2859 -22.86217,2.1347 -19.74086,1.2798 c -3.90033,0.2534 -14.28112,0.6548 -18.26784,0.7762 z"
-           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+           d="m 870.85224,1015.2875 c -7.77188,0.1751 -11.92277,0.017 -19.6194,-0.204 -5.59514,0.056 -8.99251,-0.3422 -13.94091,-0.6067 l -6.75856,-1.1075 c -1.78296,-0.7012 -3.99179,-1.6379 -6.40076,-2.5061 l -4.50306,-1.4282 -4.05144,-0.4134 -3.83645,0.8599 -2.67891,2.0836 -1.32292,3.7372 -1.17761,3.7897 -2.15406,7.5384 -3.13628,6.7666 -4.17696,6.6846 -4.43421,6.8251 -3.96648,6.8251 -4.90193,6.2872 -5.69705,7.1757 -9.25174,9 -25.18394,19.7972 -30.09132,10.4801 -2.02803,-15.6655 27.00067,-10.7045 19.18233,-14.3339 6.66114,-7.0152 4.06529,-4.887 4.93057,-6.7111 4.01853,-5.495 4.29914,-6.8048 3.97175,-6.7813 3.2,-7.1554 2.89598,-7.3192 2.497,-6.9784 3.80954,-6.0273 6.65804,-4.77102 8.53281,-2.62929 8.02018,-0.19844 8.56485,1.88982 c 3.96419,1.46112 8.18974,2.28262 12.28763,3.3357 l 10.20299,1.76943 18.65262,0.2428 c 3.965,-0.1554 12.49595,-0.93755 16.5965,-1.24074 l 18.59075,-2.00135 23.64948,-3.42824 22.58086,-4.20066 23.67527,-6.55979 23.2471,-7.81517 37.83536,-11.77592 40.9822,-9.12261 1.2909,18.06756 -38.6667,8.85282 -33.6813,10.6313 -24.90363,9.2381 -25.97573,5.5332 -24.48923,4.2859 -22.86217,2.1347 -19.74086,1.2798 c -3.90033,0.2534 -14.28112,0.6548 -18.26784,0.7762 z"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
       </g>
       <g
          id="g40"
@@ -648,18 +697,19 @@
            inkscape:label="流火路">
           <path
              style="display:inline;fill:#d3e0f0;fill-opacity:1;stroke-width:0.264583"
-             d="m 838.13138,1094.1105 -0.0265,-1.5848 1.37628,-1.6839 0.24956,-0.3796 0.14709,-0.3083 0.0283,-0.5632 -0.007,-1.4704 -0.0953,-0.4845 -0.34962,-0.3793 -0.38178,-0.2683 -0.4835,-0.2815 -4.7901,-0.011 0.008,-1.0473 4.99659,0.018 0.36146,0.1076 0.18122,0.1059 0.24351,0.1954 0.30285,0.2279 -0.007,-1.1174 -0.007,-1.7928 0.0632,-0.277 0.0938,-0.2362 0.13961,-0.2036 0.20655,-0.1694 0.31762,-0.1317 0.40209,-0.065 0.36619,-0.016 2.19655,-0.024 h 1.9211 l 1.99604,0.012 -1.02687,0.1934 -0.57894,0.1569 -0.40535,0.1149 -0.34104,0.095 -0.37362,0.099 -0.40117,0.09 -0.39593,0.032 h -0.3771 -2.20422 l -0.24479,0.016 -0.20434,0.046 -0.12578,0.1101 -0.0845,0.1659 0.02,5.9162 0.027,0.5004 0.10005,0.2053 0.23518,0.099 28.7023,0.039 -0.0155,-9.8727 0.9938,0.01 0.005,9.871 13.3746,0.011 c 0.002,0.645 -2.7e-4,0.7974 -0.002,0.9105 l -43.47706,0.01 -0.19619,0.033 -0.1507,0.074 -0.11566,0.1494 z"
+             d="m 838.13138,1094.1105 -0.0265,-1.5848 1.37628,-1.6839 0.24956,-0.3796 0.14709,-0.3083 0.0283,-0.5632 -0.007,-1.4704 -0.0953,-0.4845 -0.34962,-0.3793 -0.38178,-0.2683 -0.4835,-0.2815 -4.7901,-0.011 0.008,-1.0473 4.99659,0.018 0.36146,0.1076 0.18122,0.1059 0.24351,0.1954 0.30285,0.2279 -0.007,-1.1174 -0.007,-1.7928 0.0632,-0.277 0.0938,-0.2362 0.13961,-0.2036 0.20655,-0.1694 0.31762,-0.1317 0.40209,-0.065 0.36619,-0.016 2.19655,-0.024 h 1.9211 l 1.99604,0.012 -1.02687,0.1934 -0.57894,0.1569 -0.40535,0.1149 -0.34104,0.095 -0.37362,0.099 -0.40117,0.09 -0.39593,0.032 h -0.3771 -2.20422 l -0.24479,0.016 -0.20434,0.046 -0.12578,0.1101 -0.0845,0.1659 0.02,5.9162 0.027,0.5004 0.10005,0.2053 0.23518,0.099 28.7023,0.039 -0.0155,-9.8727 0.9938,0.01 0.005,9.871 h 30.85659 l 0.001,-8.8633 0.99485,0.011 0.003,8.8522 h 30.68743 l -0.10129,-8.6558 1.02065,-0.01 0.1055,8.6616 h 36.05303 c 0.002,0.645 -2.7e-4,0.7974 -0.002,0.9105 l -129.72376,0.01 -0.19619,0.033 -0.1507,0.074 -0.11566,0.1494 z"
              id="path129"
-             sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+             sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
              inkscape:label="流火路-上段"
              transform="translate(-1.0625e-4,1.1458333e-4)" />
+          <path
+             style="display:inline;fill:#f2f2f2;fill-opacity:0;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.01, 0.01999996;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 838.51008,1086.7046 0.008,-1.0439 -2.79859,-0.013 -0.001,1.0517 z"
+             id="path61"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="流火路-瓜皮路连接段"
+             transform="translate(-1.0625e-4,1.1458333e-4)" />
         </g>
-        <path
-           style="fill:#f2f2f2;fill-opacity:0;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.01, 0.01999996;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 838.51008,1086.7046 0.008,-1.0439 -2.79859,-0.013 -0.001,1.0517 z"
-           id="path61"
-           sodipodi:nodetypes="ccccc"
-           inkscape:label="path61" />
       </g>
       <g
          id="g150"
@@ -1299,7 +1349,7 @@
     </g>
     <g
        id="g8"
-       inkscape:label="Www路"
+       inkscape:label="瓜皮路"
        transform="translate(12410.098,11050.975)"
        inkscape:export-filename="安苵市.png"
        inkscape:export-xdpi="1069.6586"
@@ -1309,11 +1359,25 @@
          id="g9"
          inkscape:label="区域规划">
         <path
+           style="display:inline;fill:#a5f2bd;fill-opacity:1;stroke:#00ffff;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:0"
+           d="m 13221.189,12137.094 -4.477,-0.04 0,-4.474 4.476,0.404 z"
+           id="path125"
+           transform="translate(-12410.098,-11050.975)"
+           inkscape:label="绿化区域规划1"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="display:inline;opacity:1;mix-blend-mode:darken;fill:#ffffff;fill-opacity:1;stroke:#00ffff;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:0"
+           d="m 13246.513,12132.634 1.681,59.747 -74.023,0.289 -13.53,-47.216 34.617,-30.773 z"
+           id="path126"
+           inkscape:label="区域规划-范围"
+           transform="translate(-12410.098,-11050.975)"
+           sodipodi:nodetypes="cccccc" />
+        <path
            style="fill:#d3e0f0;fill-opacity:1;stroke:#000000;stroke-width:0"
-           d="m 788.29296,1059.987 -0.33073,3.5718 0.24805,7.5407 0.56224,5.457 1.19062,2.1332 2.43086,1.1079 4.33255,0.4631 5.2586,0.083 8.3013,-0.016 19.40502,-0.03 54.59659,-0.012 0.005,2.0102 -74.53594,-0.01 -12.87365,-0.099 -5.0188,-0.6697 -3.32383,-1.571 -1.71979,-2.9765 -0.62013,-5.8457 -0.1819,-7.2264 0.47956,-4.1341 z"
+           d="m 788.29296,1059.987 -0.33073,3.5718 0.24805,7.5407 0.63665,5.457 1.19889,2.0588 2.43913,1.141 4.2416,0.5044 5.2586,0.083 8.3013,-0.016 19.40502,-0.03 140.81018,-0.012 0.005,2.0102 -159.43415,8e-4 -0.47603,0.1323 -0.47511,0.3715 -0.25469,0.4847 -0.0156,0.2968 0.007,0.2806 0.004,0.2903 0.017,0.526 0.10018,0.3053 0.1639,0.2695 0.20511,0.2515 0.19957,0.1314 23.45446,0.014 0.0374,1.0416 -24.04767,-0.043 c 0.01,0.9686 0.0267,52.6108 0.0374,53.6299 l 0.0851,0.5203 0.30732,0.2806 0.51194,0.2339 -4.35045,0.1111 0.74771,-0.304 0.29169,-0.3801 0.12798,-0.5203 -0.0111,-51.9947 -0.0694,-0.2703 -0.14247,-0.2382 -0.22432,-0.1388 -0.29739,-0.054 -34.20161,0.031 -1.35085,-0.3077 -0.66303,-0.4722 -0.56381,-0.6954 -2.88226,-4.2896 1.35108,-1.4205 1.76448,2.5896 1.16917,1.6966 0.65163,0.7474 0.47799,0.2265 34.23318,-0.012 0.35293,-0.1291 0.19583,-0.2199 0.10903,-0.2799 0.0222,-0.3026 -0.006,-1.2499 -0.13572,-0.4681 -0.29497,-0.4018 -0.52245,-0.2561 -3.00654,-0.01 -6.84886,-0.012 -5.04361,-0.6118 -3.36517,-1.6702 -1.71152,-2.9848 -0.53745,-5.8953 -0.1819,-7.2264 0.47956,-4.1341 z"
            id="path8"
            inkscape:label="区域规划1"
-           sodipodi:nodetypes="ccccccccccccccccccccc" />
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
         <path
            style="display:inline;fill:#ffeeaa;fill-opacity:1;stroke-width:0.264583"
            d="m 833.00127,1082.2951 h 10.65633 l -0.006,-1.999 -10.64941,-0 z"
@@ -1326,7 +1390,524 @@
            d="m 837.18862,1080.3045 0.0218,1.9843 -1.92754,10e-4 0.004,-1.9812 z"
            id="path28-9"
            sodipodi:nodetypes="ccccc"
-           inkscape:label="Www天桥-流火路连接段" />
+           inkscape:label="瓜皮路天桥-流火路连接段" />
+        <g
+           id="g124"
+           style="display:inline"
+           transform="translate(-1.0625e-4,1.1458333e-4)"
+           inkscape:label="周边房屋">
+          <g
+             id="g125"
+             transform="translate(-0.04677217,0.10523738)">
+            <path
+               style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+               d="m 821.7358,1084.938 v -2.116 l 13.0202,0 v 2.111 z"
+               id="path43-89"
+               inkscape:label="房屋2"
+               sodipodi:nodetypes="ccccc"
+               transform="translate(-1.0625e-4,1.1458333e-4)" />
+            <path
+               style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+               d="m 811.582,1084.9081 v -2.116 h 8.71245 v 2.111 z"
+               id="path43-89-1"
+               inkscape:label="房屋1"
+               sodipodi:nodetypes="ccccc" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g80"
+         inkscape:label="标题">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.834552px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;mix-blend-mode:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.550049"
+           x="1327.7292"
+           y="-8.7417879"
+           id="text148-3-5-2-8-8-4-59"
+           inkscape:label="标题10"
+           inkscape:transform-center-x="0.14698988"
+           inkscape:transform-center-y="-0.13482396"
+           transform="rotate(55)"><tspan
+             sodipodi:role="line"
+             id="tspan80-8"
+             x="1327.7292"
+             y="-8.7417879">瓜皮路</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.834552px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;mix-blend-mode:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.550049"
+           x="795.78888"
+           y="1086.8478"
+           id="text148-3-5-2-8-8-4-9"
+           inkscape:label="标题9"
+           inkscape:transform-center-x="0.1984375"
+           inkscape:transform-center-y="0.041341146"><tspan
+             sodipodi:role="line"
+             id="tspan80-2"
+             x="795.78888"
+             y="1086.8478">瓜皮路</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.27496px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;mix-blend-mode:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.840314"
+           x="-1138.6293"
+           y="809.34753"
+           id="text148-3-5-2-8-8-4-0-6-1"
+           inkscape:label="标题8"
+           inkscape:transform-center-x="-0.04137053"
+           inkscape:transform-center-y="0.1984568"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan80-9-2-7"
+             x="-1138.6293"
+             y="809.34753"
+             style="stroke-width:0.840314">瓜皮路</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.27496px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;mix-blend-mode:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.840314"
+           x="-1104.1195"
+           y="809.18903"
+           id="text148-3-5-2-8-8-4-0-6-1-6"
+           inkscape:label="标题7"
+           inkscape:transform-center-x="-0.04137053"
+           inkscape:transform-center-y="0.1984568"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan80-9-2-7-5"
+             x="-1104.1195"
+             y="809.18903"
+             style="stroke-width:0.840314">瓜皮路</tspan></text>
+        <text
+           xml:space="preserve"
+           style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.63426px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.418037"
+           x="812.8053"
+           y="1086.3944"
+           id="text148-3-5-2-8-8-4-0-6"
+           inkscape:label="标题6"
+           inkscape:transform-center-x="0.1984375"
+           inkscape:transform-center-y="0.041341146"
+           transform="translate(-1.0625e-4,1.1458333e-4)"><tspan
+             sodipodi:role="line"
+             id="tspan80-9-2"
+             x="812.8053"
+             y="1086.3944"
+             style="stroke-width:0.418037">瓜皮路</tspan></text>
+        <text
+           xml:space="preserve"
+           style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.63426px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.418037"
+           x="832.51959"
+           y="1086.4023"
+           id="text148-3-5-2-8-8-4-0"
+           inkscape:label="标题5"
+           inkscape:transform-center-x="0.1984375"
+           inkscape:transform-center-y="0.041341146"
+           transform="translate(-1.0625e-4,1.1458333e-4)"><tspan
+             sodipodi:role="line"
+             id="tspan80-9"
+             x="832.51959"
+             y="1086.4023"
+             style="stroke-width:0.418037">瓜皮路</tspan></text>
+        <text
+           xml:space="preserve"
+           style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.834552px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.550049"
+           x="836.31299"
+           y="1081.5142"
+           id="text148-3-5-2-8-8-4-4"
+           inkscape:label="标题4"
+           inkscape:transform-center-x="0.1984375"
+           inkscape:transform-center-y="0.041341146"
+           transform="translate(-1.0625e-4,1.1458333e-4)"><tspan
+             sodipodi:role="line"
+             id="tspan81"
+             x="836.31299"
+             y="1081.5142">瓜皮路天桥</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.834552px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;mix-blend-mode:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.550049"
+           x="825.11877"
+           y="1081.5004"
+           id="text148-3-5-2-8-8-4"
+           inkscape:label="标题3"
+           inkscape:transform-center-x="0.1984375"
+           inkscape:transform-center-y="0.041341146"><tspan
+             sodipodi:role="line"
+             id="tspan80">瓜皮路</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.834552px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;mix-blend-mode:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.550049"
+           x="1117.3608"
+           y="-710.60413"
+           id="text148-3-5-2-8-8-4-5"
+           inkscape:label="标题2"
+           inkscape:transform-center-x="0.054217734"
+           inkscape:transform-center-y="-0.19442806"
+           transform="rotate(86)"><tspan
+             sodipodi:role="line"
+             id="tspan80-3"
+             x="1117.3608"
+             y="-710.60413">瓜皮路</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.834552px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;mix-blend-mode:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.550049"
+           x="817.28857"
+           y="1067.3895"
+           id="text148-3-5-2-8-8-4-5-1"
+           inkscape:label="标题1"
+           inkscape:transform-center-x="0.19902092"
+           inkscape:transform-center-y="0.04476557"
+           transform="rotate(1)"><tspan
+             sodipodi:role="line"
+             id="tspan80-3-1"
+             x="817.28857"
+             y="1067.3895">瓜皮路</tspan></text>
+        <g
+           id="g81"
+           inkscape:label="方向">
+          <text
+             xml:space="preserve"
+             style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="1087.5679"
+             y="-809.43488"
+             id="text72-4-7-7-7-8-3-4-1-6-2-4-9-6"
+             inkscape:label="方向标识6"
+             transform="rotate(90,-1.1041667e-4,4.1666638e-6)"><tspan
+               sodipodi:role="line"
+               id="tspan85-6-2"
+               x="1087.5679"
+               y="-809.43488">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan86-1-1"
+               x="1087.5679"
+               y="-808.92297">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan87-6-4"
+               x="1087.5679"
+               y="-808.41107">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan88-6-38"
+               x="1087.5679"
+               y="-807.89917">-&gt;</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="812.35229"
+             y="1080.6764"
+             id="text72-4-7-7-7-8-3-4-1-6-2-4"
+             inkscape:label="方向标识5"><tspan
+               sodipodi:role="line"
+               id="tspan85"
+               x="812.35229"
+               y="1080.6764">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan86"
+               x="812.35229"
+               y="1081.1884">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan87"
+               x="812.35229"
+               y="1081.7002">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan88"
+               x="812.35229"
+               y="1082.2122">-&gt;</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="805.36646"
+             y="1080.6802"
+             id="text72-4-7-7-7-8-3-4-1-6-2-4-9"
+             inkscape:label="方向标识4"><tspan
+               sodipodi:role="line"
+               id="tspan85-6"
+               x="805.36646"
+               y="1080.6802">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan86-1"
+               x="805.36646"
+               y="1081.1921">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan87-6"
+               x="805.36646"
+               y="1081.704">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan88-6"
+               x="805.36646"
+               y="1082.2159">-&gt;</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="1083.4061"
+             y="-809.37616"
+             id="text72-4-7-7-7-8-3-4-1-6-2-4-9-7"
+             inkscape:label="方向标识3"
+             transform="rotate(90)"><tspan
+               sodipodi:role="line"
+               id="tspan85-6-7"
+               x="1083.4061"
+               y="-809.37616">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan86-1-8"
+               x="1083.4061"
+               y="-808.86426">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan87-6-9"
+               x="1083.4061"
+               y="-808.35236">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan88-6-3"
+               x="1083.4061"
+               y="-807.84045">-&gt;</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="811.30627"
+             y="1085.9989"
+             id="text72-4-7-7-7-8-3-4-1-6-2-4-9-6-4"
+             inkscape:label="方向标识2"><tspan
+               sodipodi:role="line"
+               id="tspan123"
+               x="811.30627"
+               y="1085.9989">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan124"
+               x="811.30627"
+               y="1086.5109">&lt;-</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="807.0047"
+             y="1085.9194"
+             id="text72-4-7-7-7-8-3-4-1-6-2-4-9-2"
+             inkscape:label="方向标识1"><tspan
+               sodipodi:role="line"
+               id="tspan85-6-5"
+               x="807.0047"
+               y="1085.9194">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan86-1-7"
+               x="807.0047"
+               y="1086.4314">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan87-6-1"
+               x="807.0047"
+               y="1086.9432">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan88-6-0"
+               x="807.0047"
+               y="1087.4552">-&gt;</tspan></text>
+          <g
+             id="g88"
+             inkscape:label="分割线">
+            <path
+               style="display:inline;fill:#00ffff;fill-opacity:0;stroke:#00ffff;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 13220.097,12137.628 c 0,0 -0.386,-0.02 -0.386,-0.02 l -0.206,-0.07 -0.129,-0.07 -0.172,-0.161 -0.153,-0.187 -0.109,-0.191 -0.05,-0.216 v -0.497"
+               id="path124"
+               transform="translate(-12410.098,-11050.975)"
+               inkscape:label="分割线7" />
+            <path
+               style="display:inline;fill:#ffff00;fill-opacity:0;stroke:#ffff00;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 13218.902,12139.473 h -1.066 v -1.89 l 0.05,-0.162 0.127,-0.234 0.159,-0.172 0.312,-0.167 0.228,-0.08 0.28,-0.07 0.269,-0.04 0.594,-0.03 1.336,-0.01 v 0.993 h -1.658 l -0.146,0.04 -0.117,0.06 -0.09,0.106 -0.07,0.123 -0.06,0.149 -0.06,0.171 -0.05,0.231 -0.04,0.269 v 0.171 z"
+               id="path97"
+               transform="translate(-12410.098,-11050.975)"
+               inkscape:label="分割线6" />
+            <path
+               style="display:inline;fill:#00ff00;fill-opacity:0;stroke:#00ff00;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 13216.708,12137.585 -0,0.942 1.71,0 0.471,-0.101 0.553,-0.225 0.292,-0.236 0.173,-0.246 0.08,-0.232 0.04,-0.3 v -0.32 l -0.01,-0.361 -0.02,-0.485 -0.03,-1.1 h -1.071 v 1.853 l -0.01,0.106 -0.04,0.125 -0.09,0.171 -0.162,0.139 -0.209,0.11 -0.15,0.07 -0.226,0.06 -0.326,0.03 z"
+               id="path96"
+               sodipodi:nodetypes="cccccccccccccccccccccccc"
+               transform="translate(-12410.098,-11050.975)"
+               inkscape:label="分割线5" />
+            <path
+               style="display:inline;fill:#00ff00;fill-opacity:0;stroke:#ff0000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 13216.707,12136.624 v 0.958 h 1.794 l 0.138,0.06 0.08,0.08 0.09,0.162 0.04,0.17 0.02,0.213 0.03,1.207 1.185,0 -0.01,-1.359 -0.03,-0.364 -0.09,-0.254 -0.137,-0.217 -0.22,-0.249 -0.204,-0.154 -0.244,-0.12 -0.293,-0.07 -0.321,-0.05 h -0.21 -0.417 z"
+               id="path93"
+               transform="translate(-12410.098,-11050.975)"
+               inkscape:label="分割线4"
+               sodipodi:nodetypes="cccccccccccccccccccccc" />
+            <path
+               style="display:inline;fill:#bbbbbb;fill-opacity:0;stroke:#ff0000;stroke-width:0.01;stroke-dasharray:0.23999999,0.23999999;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 13217.772,12134.918 v -1.721 l 0.11,-0.55 0.245,-0.479 0.249,-0.298 0.296,-0.25 0.364,-0.212 0.339,-0.102 h 1.617 v 0.97 h -1.324 l -0.211,0.1 -0.184,0.143 -0.175,0.245 -0.114,0.316 -0.05,0.339 -0.02,0.278 -0.03,0.474 0,0.745 z"
+               id="path90"
+               sodipodi:nodetypes="cccccccccccccccccccc"
+               transform="translate(-12410.098,-11050.975)"
+               inkscape:label="分割线3" />
+            <path
+               style="display:inline;fill:#00ff00;fill-opacity:0;stroke:#00ff00;stroke-width:0.01;stroke-dasharray:0.12,0.12;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 13219.956,12134.921 v -1.718 l -0.04,-0.418 -0.131,-0.366 -0.214,-0.359 -0.297,-0.345 -0.212,-0.187 -0.201,-0.143 -0.14,-0.08 h -2.321 v 0.964 h 1.68 l 0.129,0.07 0.158,0.129 0.134,0.175 0.133,0.265 0.09,0.263 0.07,0.352 0.09,0.594 0.01,0.8 z"
+               id="path91"
+               sodipodi:nodetypes="ccccccccccccccccccccc"
+               transform="translate(-12410.098,-11050.975)"
+               inkscape:label="分割线2" />
+            <path
+               style="display:inline;fill:#f2f2f2;fill-opacity:0;stroke:#55d400;stroke-width:0.01;stroke-dasharray:0.01, 0.02;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 843.67951,1081.256 -38.98979,0.052 -7.37685,0.052 -4.87045,-0.4908 -3.42582,-1.651 -1.35652,-2.5853 -0.5207,-6.1571 -0.1233,-6.7278 -0.0106,-2.1833"
+               id="path88"
+               transform="translate(-1.0625e-4,1.1458333e-4)"
+               inkscape:label="分割线1" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g70"
+         inkscape:label="安苵大学">
+        <g
+           id="g71"
+           inkscape:label="区域规划">
+          <path
+             style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:0"
+             d="m 811.74272,1103.3154 c -3.03237,-4.5 1.16983,-11.4021 5.70521,-14.3813 3.57041,-2.3453 9.49687,-2.065 12.79922,0.6448 3.88907,3.1912 6.76373,17.6467 3.68749,21.6273 -1.23368,1.5964 -4.42196,1.2374 -6.05234,0.049 -2.40347,-1.7519 -0.28796,-14.2786 -2.66224,-16.0698 -1.24128,-0.9365 -3.40205,-1.0253 -4.66328,-0.1159 -2.46378,1.7765 -0.19698,6.6367 -2.6625,8.4108 -1.665,1.1981 -5.00527,1.5362 -6.15156,-0.1649 z"
+             id="path70"
+             sodipodi:nodetypes="sssssssss"
+             inkscape:label="安苵市公共图书馆" />
+          <path
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:0"
+             d="m 817.28256,1134.311 v 5.7878 l 17.54441,-0.01 0.009,-5.7778 z"
+             id="path84"
+             sodipodi:nodetypes="ccccc"
+             transform="translate(-1.0625e-4,1.1458333e-4)"
+             inkscape:label="放射楼" />
+          <path
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:0"
+             d="m 13227.275,12181.262 h 17.664 v 3.342 h -17.666 z"
+             id="path83"
+             sodipodi:nodetypes="ccccc"
+             transform="translate(-12410.098,-11050.975)"
+             inkscape:label="教学楼2" />
+          <path
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:0"
+             d="m 820.20436,1108.1279 0.0704,7.6472 14.68624,0.047 -0.0466,13.3768 -23.16395,-0.018 -0.0113,-21.0768 z"
+             id="path75"
+             sodipodi:nodetypes="ccccccc"
+             inkscape:label="教学楼1"
+             transform="translate(-1.0625e-4,1.1458333e-4)" />
+          <path
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:0"
+             d="m 811.77378,1130.2802 -0.0117,9.8633 h 4.04575 v -9.8689 z"
+             id="path76"
+             sodipodi:nodetypes="ccccc"
+             transform="translate(-1.0625e-4,1.1458333e-4)"
+             inkscape:label="食堂" />
+          <g
+             id="g187-7"
+             inkscape:label="地铁口"
+             style="display:inline"
+             transform="translate(-29.338927,-6.1952121)">
+            <path
+               style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#00ffff;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:0"
+               d="m 13250.002,12144.362 h 1.423 v 3.188 h -1.426 z"
+               id="path174-4"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="图书馆站区域规划"
+               transform="translate(-12410.098,-11050.975)" />
+          </g>
+        </g>
+        <g
+           id="g84"
+           inkscape:label="放射楼"
+           transform="matrix(1.2762816,0,0,1.2762815,-225.57051,-313.3409)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.3558px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00814506;stroke-dasharray:0.0977407, 0.0977407;stroke-dashoffset:0;stroke-opacity:0"
+             x="811.31543"
+             y="1135.8599"
+             id="text73-7-90-4"
+             inkscape:label="标题1"
+             transform="translate(7.6397375,1.025375)"><tspan
+               sodipodi:role="line"
+               id="tspan72-3-8-2"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.00814506"
+               x="811.31543"
+               y="1135.8599">安苵大学-放射楼</tspan></text>
+        </g>
+        <g
+           id="g77"
+           inkscape:label="教学楼"
+           transform="translate(7.6398437,1.0252604)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.3558px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00814506;stroke-dasharray:0.0977407, 0.0977407;stroke-dashoffset:0;stroke-opacity:0"
+             x="811.62744"
+             y="1131.3901"
+             id="text73-7-90"
+             inkscape:label="标题2"><tspan
+               sodipodi:role="line"
+               id="tspan72-3-8"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.00814506"
+               x="811.62744"
+               y="1131.3901">安苵大学-教学楼二栋</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.66457px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:0"
+             x="807.93341"
+             y="1121.001"
+             id="text73-7"
+             inkscape:label="标题1"
+             transform="translate(-1.0625e-4,1.1458333e-4)"><tspan
+               sodipodi:role="line"
+               id="tspan72-3"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.01"
+               x="807.93341"
+               y="1121.001">安苵大学-教学楼</tspan></text>
+        </g>
+        <g
+           id="g77-9"
+           inkscape:label="食堂"
+           transform="translate(-0.5291563,13.49176)"
+           style="display:inline">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.85449px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00513342;stroke-dasharray:0.061601, 0.061601;stroke-dashoffset:0;stroke-opacity:0"
+             x="812.63177"
+             y="1121.4431"
+             id="text73-7-9"
+             inkscape:label="标题1"><tspan
+               sodipodi:role="line"
+               id="tspan82"
+               x="812.63177"
+               y="1121.4431"
+               style="stroke-width:0.00513342">安苵大学</tspan><tspan
+               sodipodi:role="line"
+               id="tspan83"
+               x="812.63177"
+               y="1122.5327"
+               style="stroke-width:0.00513342">   食堂</tspan></text>
+        </g>
+        <g
+           id="g74"
+           inkscape:label="标题">
+          <g
+             id="g75"
+             inkscape:label="安苵市公共图书馆">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.66457px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:0"
+               x="816.36926"
+               y="1092.9272"
+               id="text73"
+               inkscape:label="标题1"><tspan
+                 sodipodi:role="line"
+                 id="tspan72"
+                 style="fill:#000000;fill-opacity:1;stroke-width:0.01"
+                 x="816.36926"
+                 y="1092.9272">安苵市公共图书馆</tspan></text>
+            <g
+               id="g186-2"
+               inkscape:label="地铁站"
+               style="display:inline"
+               transform="translate(-5.7297729,0.13644791)">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401434px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#00ffff;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:0"
+                 x="1087.7743"
+                 y="-817.12646"
+                 id="text184-9"
+                 transform="rotate(90)"
+                 inkscape:label="标题"><tspan
+                   sodipodi:role="line"
+                   id="tspan188"> 图书馆站</tspan><tspan
+                   sodipodi:role="line"
+                   id="tspan189">（五号线）</tspan></text>
+            </g>
+          </g>
+        </g>
       </g>
     </g>
     <g
@@ -1348,10 +1929,17 @@
              sodipodi:nodetypes="ccccc" />
         </g>
         <path
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.01, 0.02;stroke-dashoffset:0;stroke-opacity:0"
+           d="m 13385.765,12193.887 -91.475,-0.629 0.03,-51.159 87.205,-0.297 z"
+           id="path17-4"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="行人区域规划1"
+           transform="translate(-12410.098,-11050.975)" />
+        <path
            style="fill:#d3e0f0;fill-opacity:1;stroke-width:0.470369"
-           d="m 866.44203,1150.798 0.0458,2.2793 4.07231,4.5573 0.61461,0.59 0.80325,0.3465 -0.0702,1.6683 -0.0282,3.401 -0.0282,3.4011 -0.0282,3.4011 -0.0282,3.401 -0.0282,3.401 -0.0282,3.4011 -0.0282,3.4011 0.0905,5.2485 0.12363,5.1837 0.0145,0.6628 c 0.004,0.2011 -0.18997,0.298 -0.37865,0.019 l -0.43509,-0.6602 -0.41074,-0.5345 -4.21022,-5.3659 -0.11068,3.1207 4.68865,6.0937 0.49965,0.9863 0.23286,1.0081 0.11553,1.0244 0.0328,2.7 0.0328,2.6999 0.0328,2.7 0.0328,2.6999 0.0121,2.9642 2.17189,0.024 -0.0262,-2.0153 c 0.19509,0.1482 0.32862,0.1502 0.56592,0.2585 0.26794,0.092 0.37509,0.099 0.67859,0.1385 l 0.62432,0.01 h 0.67542 l 4.33078,-0.017 0.29363,-0.083 0.22388,-0.051 -0.12727,5.5316 -0.20887,0.6669 -0.78475,1.1477 0.73278,1.1214 0.30636,-0.3533 -0.0603,1.6943 0.84797,3e-4 h 0.29745 0.29745 0.29745 l 0.56663,0.046 -0.0366,-9.7406 0.0373,-0.4684 0.38282,-0.3665 0.73066,-0.2755 2.86076,-0.591 3.62201,-0.7529 3.81632,-0.8684 -3.9373,-0.2785 -4.34441,0.7626 -3.12723,0.6022 -0.0287,-0.4197 -0.005,-0.6357 5.01168,0.052 54.22258,0.4135 4.49991,0.067 0.13874,-25.1858 -4.69944,0.039 0.0278,22.2529 -54.10029,-0.3615 H 883.959 l -2.53552,-0.044 -1.85917,-0.013 -0.11836,1.3463 1.67004,0.034 0.44649,0.2062 0.11032,0.4076 -0.004,1.9675 -0.1308,0.2793 -0.34425,0.2992 -0.42764,0.113 -5.14162,-0.039 -0.63509,-0.1428 -0.40019,-0.2099 -0.30339,-0.3276 -0.0577,-2.1816 -0.0222,-2.9602 -0.0222,-2.9602 -0.0222,-2.9602 -0.0995,-5.2487 -0.0995,-5.2488 -0.0995,-5.2487 -0.008,-3.4019 -0.008,-3.4019 -0.008,-3.4018 -0.008,-3.4019 -0.008,-3.4018 0.0121,-2.0073 1.4603,0.01 -0.0322,-1.37 -1.44787,-0.031 -0.008,-3.4019 0.0212,-1.6665 4.6422,0.033 7.19344,0.03 7.19344,0.03 7.19344,0.03 5.61266,0.043 0.01,1.2854 1.57319,-0.01 -0.002,-1.2786 7.19344,0.03 7.19344,0.03 7.19344,0.03 6.22292,0.037 6.22292,0.037 2.09291,0.038 -0.0532,3.168 -0.0531,3.1679 -0.0531,3.168 -0.0531,3.1679 -0.0532,3.168 -0.0629,1.8632 -1.24746,-0.011 -0.047,1.3111 1.30385,0.038 -0.12076,3.4135 -17.42338,-0.073 c -5.98971,-0.061 -11.8362,-0.022 -17.81458,-0.056 l 0.006,-1.8019 -1.71752,0.021 -0.0101,1.774 -32.73384,-0.1559 0.006,1.7153 69.69127,0.089 0.0113,1.6524 -0.0123,0.8169 2.18517,-8e-4 -0.0394,-0.2402 6.90667,0.052 -0.007,-1.1938 -6.91412,-0.069 0.0151,-1.1305 -0.0114,-1.6888 0.0458,-3.1673 0.0458,-3.1673 0.0457,-3.1673 0.0458,-3.1674 0.0458,-3.1673 0.0457,-3.1673 0.0458,-3.1673 2.11306,5e-4 6.22292,0.037 6.22292,0.037 6.22292,0.037 6.22293,0.037 6.22292,0.037 0.0138,-1.4047 -6.22366,-0.036 -6.22365,-0.036 -6.22365,-0.037 -6.22366,-0.036 -6.22365,-0.036 -6.22365,-0.036 -6.22366,-0.037 -6.22365,-0.036 -7.19931,-0.029 -7.19931,-0.029 -7.1993,-0.029 -7.19931,-0.029 -5.30575,-0.065 0.005,-2.2165 -1.8516,-0.034 -0.0468,2.286 -7.1993,-0.029 -7.19931,-0.029 -2.93913,-0.039 -1.67155,-0.021 -0.93132,-0.088 -0.73814,-0.3788 z"
+           d="m 866.44203,1150.798 0.0458,2.2793 4.07231,4.5573 0.61461,0.59 0.80325,0.3465 -0.0702,1.6683 -0.0282,3.401 -0.0282,3.4011 -0.0282,3.4011 -0.0282,3.401 -0.0282,3.401 -0.0282,3.4011 -0.0282,3.4011 0.0905,5.2485 0.12363,5.1837 0.0145,0.6628 c 0.004,0.2011 -0.18997,0.298 -0.37865,0.019 l -0.43509,-0.6602 -0.41074,-0.5345 -4.21022,-5.3659 -0.11068,3.1207 4.68865,6.0937 0.49965,0.9863 0.23286,1.0081 0.11553,1.0244 0.0328,2.7 0.0328,2.6999 0.0328,2.7 0.006,1.8869 -0.0894,0.3201 -0.31013,0.1911 -0.72663,0.2196 -0.79962,0.136 -2.85703,-0.01 0.0135,1.2853 3.47294,0.012 0.56886,-0.096 0.47266,-0.1279 0.27202,-0.1417 -0.10444,12.363 2.17189,0.024 0.0998,-12.395 c 0.19509,0.1482 0.32862,0.1502 0.56592,0.2585 0.26794,0.092 0.37509,0.099 0.67859,0.1385 l 0.62432,0.01 0.67542,0 4.33078,-0.017 0.29363,-0.083 0.22388,-0.051 0.008,5.5236 -0.25856,0.7195 -0.87003,1.1031 0.73278,1.1214 0.30636,-0.3533 0.0329,4.0566 0.72821,0.01 h 0.29958 l 0.29522,0 h 0.31909 l 0.52391,-0.01 0.0112,-12.0673 0.0373,-0.4684 0.38282,-0.3665 0.73066,-0.2755 2.86076,-0.591 3.62201,-0.7529 3.81632,-0.8684 -3.9373,-0.2785 -4.34441,0.7626 -3.12723,0.6022 -0.0287,-0.4197 -0.005,-0.6357 5.01168,0.052 54.22258,0.4135 4.49991,0.067 194.61914,1.2544 -0.065,-2.8559 -117.5029,-0.7374 -0.4582,-49.2602 -3.7885,-0.077 0.5152,49.313 -73.3702,-0.461 0.18803,-22.362 -4.69944,0.039 0.0278,22.2529 -54.10029,-0.3615 h -4.88938 l -2.53552,-0.044 -1.85917,-0.013 -0.11836,1.3463 1.67004,0.034 0.44649,0.2062 0.11032,0.4076 -0.004,1.9675 -0.1308,0.2793 -0.34425,0.2992 -0.42764,0.113 -5.14162,-0.039 -0.63509,-0.1428 -0.40019,-0.2099 -0.30339,-0.3276 -0.0577,-2.1816 -0.0222,-2.9602 -0.0222,-2.9602 -0.0222,-2.9602 -0.0995,-5.2487 -0.0995,-5.2488 -0.0995,-5.2487 -0.008,-3.4019 -0.008,-3.4019 -0.008,-3.4018 -0.008,-3.4019 -0.008,-3.4018 0.0121,-2.0073 1.4603,0.01 -0.0322,-1.37 -1.44787,-0.031 -0.008,-3.4019 0.0212,-1.6665 4.6422,0.033 7.19344,0.03 7.19344,0.03 7.19344,0.03 5.61266,0.043 0.01,1.2854 1.57319,-0.01 -0.002,-1.2786 7.19344,0.03 7.19344,0.03 7.19344,0.03 6.22292,0.037 6.22292,0.037 2.09291,0.038 -0.0532,3.168 -0.0531,3.1679 -0.0531,3.168 -0.0531,3.1679 -0.0532,3.168 -0.0629,1.8632 -1.24746,-0.011 -0.047,1.3111 1.30385,0.038 -0.12076,3.4135 -17.42338,-0.073 c -5.98971,-0.061 -11.8362,-0.022 -17.81458,-0.056 l 0.006,-1.8019 -1.71752,0.021 -0.0101,1.774 -32.73384,-0.1559 0.006,1.7153 69.69127,0.089 0.0113,1.6524 -0.0123,0.8169 2.18517,-8e-4 -0.0394,-0.2402 199.82904,1.262 -0.01,-1.1938 -199.83649,-1.279 0.0151,-1.1305 -0.0114,-1.6888 0.0458,-3.1673 0.0458,-3.1673 0.0457,-3.1673 0.0458,-3.1674 0.0458,-3.1673 0.0457,-3.1673 0.0458,-3.1673 2.11306,5e-4 6.22292,0.037 7.64508,0.046 -0.66462,51.1236 2.29704,0.017 0.60312,-51.1279 2.56509,0.015 74.7089,0.4665 101.9647,0.6375 0.014,-1.4047 -101.9654,-0.6365 -74.70966,-0.4655 -2.56123,-0.016 0.17109,-26.1605 -2.03664,0.1549 -0.37471,25.9931 -7.64582,-0.045 -6.22365,-0.036 -6.22365,-0.036 -6.22366,-0.037 -6.22365,-0.036 -7.19931,-0.029 -7.19931,-0.029 -7.1993,-0.029 -7.19931,-0.029 -5.30575,-0.065 0.005,-2.2165 -1.8516,-0.034 -0.0468,2.286 -7.1993,-0.029 -7.19931,-0.029 -2.93913,-0.039 -1.67155,-0.021 -0.93132,-0.088 -0.73814,-0.3788 z"
            id="path130"
-           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
            inkscape:label="区域规划1"
            transform="matrix(0.47684243,-0.00416133,0.00579026,0.66349795,418.92421,344.18546)" />
         <path
@@ -1372,6 +1960,48 @@
            inkscape:label="方向"
            style="display:inline"
            transform="translate(-1.0625e-4,1.1458333e-4)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.133942px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.0585672"
+             x="-1159.8485"
+             y="816.82043"
+             id="text72-4-7-7-7-8-3-4-4-52-7-2-4-8-3-8-2-6-08-9"
+             inkscape:label="方向标识7-提示2"
+             transform="rotate(-91)"><tspan
+               sodipodi:role="line"
+               id="tspan29"
+               x="-1159.8485"
+               y="816.82043"
+               style="stroke-width:0.0585672">（穿过快速路）</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.164858px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.0720854"
+             x="-1145.4363"
+             y="839.57471"
+             id="text72-4-7-7-7-8-3-4-4-52-7-2-4-8-3-8-2-6-08"
+             inkscape:label="方向标识7-提示1"
+             transform="rotate(-90)"><tspan
+               sodipodi:role="line"
+               id="tspan70-1"
+               x="-1145.4363"
+               y="839.57471"
+               style="stroke-width:0.0720854">（快速路下）</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="-327.44952"
+             y="-1382.6727"
+             id="text72-4-7-7-7-8-3-4-4-52-7-2-4-8-3-8-6-2"
+             inkscape:label="方向标识7"
+             transform="rotate(157)"><tspan
+               sodipodi:role="line"
+               id="tspan146-2-8-2-6-2-5-49"
+               x="-327.44952"
+               y="-1382.6727">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan147-0-5-5-0-6-7-9"
+               x="-327.44952"
+               y="-1382.1608">-&gt;</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
@@ -1455,19 +2085,19 @@
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
-             x="-166.33356"
-             y="1418.3065"
+             x="-166.34857"
+             y="1418.2953"
              id="text72-4-7-7-7-8-3-4-4-52-7-2-4-8-3-6-0-8-0-5"
              inkscape:label="方向标识1"
              transform="rotate(-43)"><tspan
                sodipodi:role="line"
                id="tspan146-2-8-2-6-5-3-5-6-4"
-               x="-166.33356"
-               y="1418.3065">-&gt;</tspan><tspan
+               x="-166.34857"
+               y="1418.2953">-&gt;</tspan><tspan
                sodipodi:role="line"
                id="tspan147-0-5-5-0-0-0-7-2-4"
-               x="-166.33356"
-               y="1418.8185">-&gt;</tspan></text>
+               x="-166.34857"
+               y="1418.8073">-&gt;</tspan></text>
         </g>
         <g
            id="g79"
@@ -1516,7 +2146,7 @@
              x="13288.369"
              y="12132.593"
              id="text148-3-5-2-8-8"
-             inkscape:label="标题4"
+             inkscape:label="标题3"
              inkscape:transform-center-x="0.1984375"
              inkscape:transform-center-y="0.041341146"
              transform="translate(-12410.098,-11050.975)"><tspan
@@ -1530,11 +2160,17 @@
       <g
          id="g92"
          inkscape:label="安苵大学附属医院总院区"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g93"
            inkscape:label="区域规划">
+          <path
+             style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-opacity:1"
+             d="m 13249.743,12195.501 v 0.847 h -2.842 l -0.01,-0.844 z"
+             id="path11"
+             sodipodi:nodetypes="ccccc"
+             transform="translate(-12410.098,-11050.975)"
+             inkscape:label="流火路-雫南路连接处" />
           <path
              style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
              d="m 13248.823,12152.21 -0.03,-1.672 h 0.64 v 1.668 z"
@@ -1557,10 +2193,10 @@
              transform="translate(-1.0625e-4,1.1458333e-4)" />
           <path
              style="mix-blend-mode:darken;fill:#ffffff;fill-opacity:1;stroke:#55d400;stroke-width:0.025;stroke-dasharray:0.025, 0.0750001;stroke-dashoffset:0;stroke-opacity:0"
-             d="m 839.3422,1105.0333 -0.60294,-24.0357 6.53501,-0.045 38.70578,0.1119 0.0267,61.3993 -41.68052,-0.09 -0.11889,-6.7498 -1.29037,-27.8953 z"
+             d="m 839.3422,1105.0333 -0.60294,-24.0357 6.53501,-0.045 38.70578,0.1119 86.61003,0.049 -0.10557,9.6835 -85.99129,-0.2305 -0.11231,51.8043 -45.80021,-0.041 -0.0362,-7.9487 2.37246,-26.6551 z"
              id="path16"
              inkscape:label="行人区域规划"
-             sodipodi:nodetypes="ccccccccc"
+             sodipodi:nodetypes="cccccccccccc"
              transform="translate(-1.0625e-4,1.1458333e-4)" />
           <path
              style="display:inline;mix-blend-mode:normal;fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
@@ -1588,8 +2224,603 @@
              sodipodi:nodetypes="ccccccccccccccccc"
              inkscape:label="急诊与住院部" />
           <g
+             id="g187"
+             inkscape:label="地铁口">
+            <path
+               style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#00ffff;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:0"
+               d="m 13250.002,12144.362 h 1.423 l -0,3.188 -1.426,0 z"
+               id="path174"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="总院站区域规划"
+               transform="translate(-12410.098,-11050.975)" />
+          </g>
+          <g
              id="g53"
              inkscape:label="周边房屋">
+            <g
+               id="g214"
+               style="display:inline"
+               transform="translate(-1.0625e-4,1.1458333e-4)"
+               inkscape:label="g63">
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 901.26595,1124.7465 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-3-8-3-2-3"
+                 inkscape:label="房屋13"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 903.44581,1109.7985 2.20281,-0.016 -0.004,5.3307 -2.18955,-0.012 z"
+                 id="path43-5-1-5-1-9-2-9-9"
+                 inkscape:label="房屋12"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 903.54503,1116.0824 2.20281,-0.016 -0.004,5.3307 -2.18955,-0.012 z"
+                 id="path43-5-1-5-1-9-3-86-6"
+                 inkscape:label="房屋11"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 897.5452,1109.8977 2.20281,-0.016 -0.004,14.7896 -2.18955,-0.012 z"
+                 id="path43-5-1-5-1-9-3-86-6-2"
+                 inkscape:label="房屋10"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 885.72168,1124.7306 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-3-8-3"
+                 inkscape:label="房屋9"
+                 sodipodi:nodetypes="ccccc"
+                 transform="translate(-1.0625e-4,1.1458333e-4)" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 884.47104,1067.5898 2.20281,-0.016 -0.004,5.3307 -2.18955,-0.012 z"
+                 id="path43-5-1-5-1-9-2"
+                 inkscape:label="房屋8"
+                 sodipodi:nodetypes="ccccc"
+                 transform="translate(1.1619437,42.192954)" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 884.57026,1073.8737 2.20281,-0.016 -0.004,5.3307 -2.18955,-0.012 z"
+                 id="path43-5-1-5-1-9-3"
+                 inkscape:label="房屋7"
+                 sodipodi:nodetypes="ccccc"
+                 transform="translate(1.1619437,42.192954)" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 891.38395,1124.7128 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-3-8-3-1"
+                 inkscape:label="房屋6"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 891.29536,1109.7648 2.20281,-0.016 -0.004,5.3307 -2.18955,-0.012 z"
+                 id="path43-5-1-5-1-9-2-7"
+                 inkscape:label="房屋5"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 891.39458,1116.0487 2.20281,-0.016 -0.004,5.3307 -2.18955,-0.012 z"
+                 id="path43-5-1-5-1-9-3-8"
+                 inkscape:label="房屋4"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 906.86208,1124.7954 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-3-8-3-2"
+                 inkscape:label="房屋3"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 909.04194,1109.8474 2.20281,-0.016 -0.004,5.3307 -2.18955,-0.012 z"
+                 id="path43-5-1-5-1-9-2-9"
+                 inkscape:label="房屋2"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 909.14116,1116.1313 2.20281,-0.016 -0.004,5.3307 -2.18955,-0.012 z"
+                 id="path43-5-1-5-1-9-3-86"
+                 inkscape:label="房屋1"
+                 sodipodi:nodetypes="ccccc" />
+            </g>
+            <g
+               id="g213"
+               style="display:inline"
+               transform="translate(-12410.098,-11050.975)"
+               inkscape:label="g62">
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13295.918,12191.649 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-8-3"
+                 inkscape:label="房屋25"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13295.803,12180.123 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-3-8"
+                 inkscape:label="房屋24"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13295.803,12182.951 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-96-0"
+                 inkscape:label="房屋23"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13301.224,12191.692 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-8-7"
+                 inkscape:label="房屋22"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13295.869,12188.871 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-1-9"
+                 inkscape:label="房屋21"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13295.836,12185.994 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-960-5"
+                 inkscape:label="房屋20"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13301.109,12180.166 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-3-1"
+                 inkscape:label="房屋19"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13301.109,12182.994 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-96-4"
+                 inkscape:label="房屋18"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13301.142,12186.037 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-960-0"
+                 inkscape:label="房屋17"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13301.175,12188.914 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-1-2"
+                 inkscape:label="房屋16"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13306.481,12191.73 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-8-2"
+                 inkscape:label="房屋15"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13306.366,12180.204 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-3-0"
+                 inkscape:label="房屋14"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13306.366,12183.032 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-96-1"
+                 inkscape:label="房屋13"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13306.399,12186.075 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-960-9"
+                 inkscape:label="房屋12"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13306.432,12188.952 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-1-6"
+                 inkscape:label="房屋11"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13311.85,12191.768 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-8-6"
+                 inkscape:label="房屋10"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13311.735,12180.242 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-3-4"
+                 inkscape:label="房屋9"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13311.735,12183.07 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-96-7"
+                 inkscape:label="房屋8"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13311.768,12186.113 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-960-57"
+                 inkscape:label="房屋7"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13311.801,12188.99 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-1-8"
+                 inkscape:label="房屋6"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13317.18,12191.726 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-8-8"
+                 inkscape:label="房屋5"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13317.065,12180.2 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-3-10"
+                 inkscape:label="房屋4"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13317.065,12183.028 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-96-02"
+                 inkscape:label="房屋3"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13317.098,12186.071 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-960-2"
+                 inkscape:label="房屋2"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13317.131,12188.948 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-1-5"
+                 inkscape:label="房屋1"
+                 sodipodi:nodetypes="ccccc" />
+            </g>
+            <g
+               id="g56-2-8"
+               style="display:inline"
+               transform="translate(61.58775,2.1448271)"
+               inkscape:label="g61">
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 903.28106,1081.4432 2.20281,-0.016 -0.004,5.3892 -2.18955,-0.012 z"
+                 id="path43-5-1-5-1-9-8-3"
+                 inkscape:label="房屋12"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 906.00563,1081.4344 2.20281,-0.016 -0.004,5.3892 -2.18955,-0.012 z"
+                 id="path43-5-1-5-1-9-8-6"
+                 inkscape:label="房屋11"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 873.73287,1086.92 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-0-6"
+                 inkscape:label="房屋10"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 873.76589,1083.6918 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-3-20-2"
+                 inkscape:label="房屋9"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 879.80903,1086.9081 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-7-25-4"
+                 inkscape:label="房屋8"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 879.84205,1083.6799 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-3-6-4-8"
+                 inkscape:label="房屋7"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 885.44227,1086.8686 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-1-3-2"
+                 inkscape:label="房屋6"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 885.47529,1083.6404 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-3-2-8-2"
+                 inkscape:label="房屋5"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 891.51843,1086.8567 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-7-2-3-0"
+                 inkscape:label="房屋4"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 891.55145,1083.6285 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-3-6-3-78-5"
+                 inkscape:label="房屋3"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 897.71835,1086.8108 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-7-2-1-8-1"
+                 inkscape:label="房屋2"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 897.75137,1083.5826 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-3-6-3-7-3-1"
+                 inkscape:label="房屋1"
+                 sodipodi:nodetypes="ccccc" />
+            </g>
+            <g
+               id="g194"
+               style="display:inline"
+               transform="translate(-1.0625e-4,1.1458333e-4)"
+               inkscape:label="g60">
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 878.64442,1140.7211 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-8"
+                 inkscape:label="房屋5"
+                 sodipodi:nodetypes="ccccc"
+                 transform="translate(-1.0625e-4,1.1458333e-4)" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 878.52866,1129.1952 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-3"
+                 inkscape:label="房屋4"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 878.52867,1132.0229 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-96"
+                 inkscape:label="房屋3"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 878.56174,1135.0657 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-960"
+                 inkscape:label="房屋2"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 878.59481,1137.9431 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-1"
+                 inkscape:label="房屋1"
+                 sodipodi:nodetypes="ccccc" />
+            </g>
+            <g
+               id="g56-2"
+               style="display:inline"
+               transform="translate(30.036452,2.2795)"
+               inkscape:label="g59">
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 873.73287,1086.92 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-0"
+                 inkscape:label="房屋10"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 873.76589,1083.6918 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-3-20"
+                 inkscape:label="房屋9"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 879.80903,1086.9081 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-7-25"
+                 inkscape:label="房屋8"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 879.84205,1083.6799 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-3-6-4"
+                 inkscape:label="房屋7"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 885.44227,1086.8686 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-1-3"
+                 inkscape:label="房屋6"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 885.47529,1083.6404 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-3-2-8"
+                 inkscape:label="房屋5"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 891.51843,1086.8567 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-7-2-3"
+                 inkscape:label="房屋4"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 891.55145,1083.6285 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-3-6-3-78"
+                 inkscape:label="房屋3"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 897.71835,1086.8108 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-7-2-1-8"
+                 inkscape:label="房屋2"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 897.75137,1083.5826 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-3-6-3-7-3"
+                 inkscape:label="房屋1"
+                 sodipodi:nodetypes="ccccc" />
+            </g>
+            <g
+               id="g53-3-1"
+               inkscape:label="g58"
+               style="display:inline"
+               transform="translate(1.4180604,50.175962)">
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 870.88232,1083.9614 2.20281,-0.016 -0.004,5.3307 -2.18955,-0.012 z"
+                 id="path43-5-1-5-1-9-8"
+                 inkscape:label="房屋11"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 863.90743,1086.019 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-6-6"
+                 inkscape:label="房屋10"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 863.87743,1089.255 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1-0"
+                 inkscape:label="房屋9"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-0-2"
+                 transform="translate(-12393.461,-11054.223)"
+                 inkscape:label="房屋8"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-8-7-5-6"
+                 transform="translate(-12399.017,-11054.241)"
+                 inkscape:label="房屋7"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-7-8"
+                 transform="translate(-12393.491,-11050.987)"
+                 inkscape:label="房屋6"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-6-4-0"
+                 transform="translate(-12398.987,-11050.965)"
+                 inkscape:label="房屋5"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-4-9"
+                 transform="translate(-12404.572,-11054.233)"
+                 inkscape:label="房屋4"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-8-6-4"
+                 transform="translate(-12410.128,-11054.251)"
+                 inkscape:label="房屋3"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-12-3"
+                 transform="translate(-12404.602,-11050.997)"
+                 inkscape:label="房屋2"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-0-2"
+                 transform="translate(-12410.098,-11050.975)"
+                 inkscape:label="房屋1"
+                 sodipodi:nodetypes="ccccc" />
+            </g>
+            <g
+               id="g53-3"
+               inkscape:label="g57"
+               style="display:inline"
+               transform="translate(1.1619437,42.192954)">
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 870.88232,1083.9614 2.20281,-0.016 -0.004,5.3307 -2.18955,-0.012 z"
+                 id="path43-5-1-5-1-9"
+                 inkscape:label="房屋11"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 863.90743,1086.019 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-6"
+                 inkscape:label="房屋10"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 863.87743,1089.255 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-5-1"
+                 inkscape:label="房屋9"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-0"
+                 transform="translate(-12393.461,-11054.223)"
+                 inkscape:label="房屋8"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-8-7-5"
+                 transform="translate(-12399.017,-11054.241)"
+                 inkscape:label="房屋7"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-1-7"
+                 transform="translate(-12393.491,-11050.987)"
+                 inkscape:label="房屋6"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-6-4"
+                 transform="translate(-12398.987,-11050.965)"
+                 inkscape:label="房屋5"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-4"
+                 transform="translate(-12404.572,-11054.233)"
+                 inkscape:label="房屋4"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-8-6"
+                 transform="translate(-12410.128,-11054.251)"
+                 inkscape:label="房屋3"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-5-12"
+                 transform="translate(-12404.602,-11050.997)"
+                 inkscape:label="房屋2"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13251.962,12140.253 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-0"
+                 transform="translate(-12410.098,-11050.975)"
+                 inkscape:label="房屋1"
+                 sodipodi:nodetypes="ccccc" />
+            </g>
             <g
                id="g56"
                style="display:inline"
@@ -1604,19 +2835,55 @@
                  style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
                  d="m 873.76589,1083.6918 v -2.116 h 4.537 v 2.111 z"
                  id="path43-9-3-5-1-3"
-                 inkscape:label="房屋10"
+                 inkscape:label="房屋9"
                  sodipodi:nodetypes="ccccc" />
               <path
                  style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
                  d="m 879.80903,1086.9081 v -2.116 h 4.537 v 2.111 z"
                  id="path43-9-3-5-1-7"
-                 inkscape:label="房屋10"
+                 inkscape:label="房屋8"
                  sodipodi:nodetypes="ccccc" />
               <path
                  style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
                  d="m 879.84205,1083.6799 v -2.116 h 4.537 v 2.111 z"
                  id="path43-9-3-5-1-3-6"
-                 inkscape:label="房屋10"
+                 inkscape:label="房屋7"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 885.44227,1086.8686 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-1"
+                 inkscape:label="房屋6"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 885.47529,1083.6404 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-3-2"
+                 inkscape:label="房屋5"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 891.51843,1086.8567 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-7-2"
+                 inkscape:label="房屋4"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 891.55145,1083.6285 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-3-6-3"
+                 inkscape:label="房屋3"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 897.71835,1086.8108 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-7-2-1"
+                 inkscape:label="房屋2"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 897.75137,1083.5826 v -2.116 h 4.537 v 2.111 z"
+                 id="path43-9-3-5-1-3-6-3-7"
+                 inkscape:label="房屋1"
                  sodipodi:nodetypes="ccccc" />
             </g>
             <g
@@ -1705,7 +2972,7 @@
              inkscape:label="区域规划">
             <path
                style="fill:#ffeeaa;fill-opacity:1;stroke-width:0.264583"
-               d="m 829.29934,1143.1471 16.07021,-0.019 3.96207,0.01 -0.006,-0.9049 -3.95121,-0.03 -10e-4,-0.8937 -16.07193,-0.035 z"
+               d="m 828.62135,1143.1471 16.7482,-0.019 3.96207,0.01 -0.006,-0.9049 -3.95121,-0.03 -10e-4,-0.8937 -16.74992,-0.035 z"
                id="path153"
                inkscape:label="区域规划1"
                sodipodi:nodetypes="cccccccc" />
@@ -1751,6 +3018,78 @@
              inkscape:label="方向"
              transform="translate(-1.0625e-4,1.1458333e-4)"
              style="display:inline">
+            <text
+               xml:space="preserve"
+               style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+               x="846.0069"
+               y="1138.7865"
+               id="text72-4-7-7-7-8-3-1-7-9-5"
+               transform="rotate(-2)"
+               inkscape:label="方向标识43"><tspan
+                 sodipodi:role="line"
+                 id="tspan164">&lt;-</tspan><tspan
+                 sodipodi:role="line"
+                 id="tspan169">-&gt;</tspan></text>
+            <text
+               xml:space="preserve"
+               style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+               x="-1094.1409"
+               y="903.69098"
+               id="text72-4-7-7-7-8-3-1-7-6-4"
+               transform="rotate(-89)"
+               inkscape:label="方向标识42"><tspan
+                 sodipodi:role="line"
+                 id="tspan170-2"
+                 x="-1094.1409"
+                 y="903.69098">&lt;-</tspan><tspan
+                 sodipodi:role="line"
+                 id="tspan171-3"
+                 x="-1094.1409"
+                 y="904.20288">-&gt;</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+               x="-1092.5684"
+               y="903.6571"
+               id="text72-4-7-7-7-8-3-1-7-6"
+               transform="rotate(-89)"
+               inkscape:label="方向标识41"><tspan
+                 sodipodi:role="line"
+                 id="tspan170">&lt;-</tspan><tspan
+                 sodipodi:role="line"
+                 id="tspan171">-&gt;</tspan></text>
+            <text
+               xml:space="preserve"
+               style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+               x="844.22455"
+               y="1138.7092"
+               id="text72-4-7-7-7-8-3-1-7-9"
+               transform="rotate(-2)"
+               inkscape:label="方向标识40"><tspan
+                 sodipodi:role="line"
+                 id="tspan103-8-7-0"
+                 x="844.22455"
+                 y="1138.7092">-&gt;</tspan><tspan
+                 sodipodi:role="line"
+                 id="tspan104-1-1-8"
+                 x="844.22455"
+                 y="1139.2212">-&gt;</tspan></text>
+            <text
+               xml:space="preserve"
+               style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+               x="835.63965"
+               y="1138.4509"
+               id="text72-4-7-7-7-8-3-1-7-8"
+               transform="rotate(-2)"
+               inkscape:label="方向标识39"><tspan
+                 sodipodi:role="line"
+                 id="tspan103-8-7-9"
+                 x="835.63965"
+                 y="1138.4509">-&gt;</tspan><tspan
+                 sodipodi:role="line"
+                 id="tspan104-1-1-3"
+                 x="835.63965"
+                 y="1138.9629">-&gt;</tspan></text>
             <text
                xml:space="preserve"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
@@ -1820,13 +3159,9 @@
                inkscape:label="方向标识34"
                transform="rotate(2)"><tspan
                  sodipodi:role="line"
-                 id="tspan132-2-9-2"
-                 x="916.73602"
-                 y="1094.7102">-&gt;</tspan><tspan
+                 id="tspan89">&lt;-</tspan><tspan
                  sodipodi:role="line"
-                 id="tspan133-9-506-9"
-                 x="916.73602"
-                 y="1095.2222">-&gt;</tspan></text>
+                 id="tspan90">-&gt;</tspan></text>
             <text
                xml:space="preserve"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
@@ -2135,19 +3470,19 @@
             <text
                xml:space="preserve"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
-               x="-1093.1248"
-               y="896.73468"
+               x="-1093.1892"
+               y="896.73108"
                id="text72-4-7-7-7-8-3-4-4-5-7-4-72-1"
                inkscape:label="方向标识17"
                transform="rotate(-88)"><tspan
                  sodipodi:role="line"
-                 id="tspan135"
-                 x="-1093.1248"
-                 y="896.73468">-&gt;</tspan><tspan
+                 id="tspan162"
+                 x="-1093.1892"
+                 y="896.73108">&lt;-</tspan><tspan
                  sodipodi:role="line"
-                 id="tspan136"
-                 x="-1093.1248"
-                 y="897.24658">&lt;-</tspan></text>
+                 id="tspan163"
+                 x="-1093.1892"
+                 y="897.24298">-&gt;</tspan></text>
             <text
                xml:space="preserve"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
@@ -2189,13 +3524,9 @@
                inkscape:label="方向标识14"
                transform="rotate(2)"><tspan
                  sodipodi:role="line"
-                 id="tspan130-5"
-                 x="911.47882"
-                 y="1093.3995">-&gt;</tspan><tspan
+                 id="tspan156">&lt;-</tspan><tspan
                  sodipodi:role="line"
-                 id="tspan131-8"
-                 x="911.47882"
-                 y="1093.9115">&lt;-</tspan></text>
+                 id="tspan157">-&gt;</tspan></text>
             <text
                xml:space="preserve"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
@@ -2205,13 +3536,11 @@
                inkscape:label="方向标识13"
                transform="rotate(2)"><tspan
                  sodipodi:role="line"
-                 id="tspan130-1"
-                 x="899.83136"
-                 y="1093.8358">-&gt;</tspan><tspan
+                 id="tspan137">&lt;-</tspan><tspan
                  sodipodi:role="line"
-                 id="tspan131-4"
-                 x="899.83136"
-                 y="1094.3478">&lt;-</tspan></text>
+                 id="tspan154">-&gt;</tspan><tspan
+                 sodipodi:role="line"
+                 id="tspan155" /></text>
             <text
                xml:space="preserve"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
@@ -2221,13 +3550,9 @@
                inkscape:label="方向标识12"
                transform="rotate(2)"><tspan
                  sodipodi:role="line"
-                 id="tspan130-7"
-                 x="888.76453"
-                 y="1094.2484">-&gt;</tspan><tspan
+                 id="tspan131">&lt;-</tspan><tspan
                  sodipodi:role="line"
-                 id="tspan131-2"
-                 x="888.76453"
-                 y="1094.7604">&lt;-</tspan></text>
+                 id="tspan134">-&gt;</tspan></text>
             <text
                xml:space="preserve"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
@@ -2253,13 +3578,9 @@
                inkscape:label="方向标识10"
                transform="rotate(2)"><tspan
                  sodipodi:role="line"
-                 id="tspan130"
-                 x="881.57867"
-                 y="1094.5178">-&gt;</tspan><tspan
+                 id="tspan125">&lt;-</tspan><tspan
                  sodipodi:role="line"
-                 id="tspan131"
-                 x="881.57867"
-                 y="1095.0298">&lt;-</tspan></text>
+                 id="tspan130">-&gt;</tspan></text>
             <text
                xml:space="preserve"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
@@ -2432,7 +3753,7 @@
                  y="-1111.4636">-&gt;</tspan></text>
             <g
                id="g7"
-               inkscape:label="方向分割线"
+               inkscape:label="分割线"
                style="display:inline">
               <path
                  style="fill:#000000;fill-opacity:0;stroke:#55d400;stroke-width:0.025;stroke-dasharray:0.025, 0.075;stroke-dashoffset:0;stroke-opacity:1"
@@ -2441,7 +3762,7 @@
                  inkscape:label="分割线1" />
               <path
                  style="fill:#000000;fill-opacity:0;stroke:#55d400;stroke-width:0.025;stroke-dasharray:0.025, 0.075;stroke-dashoffset:0;stroke-opacity:1"
-                 d="m 829.30433,1142.1855 46.8951,0.1 0.45725,-0.9019 -0.0639,-14.7796"
+                 d="m 828.62634,1142.1855 47.57309,0.1 0.45725,-0.9019 -0.0639,-14.7796"
                  id="path5-1"
                  inkscape:label="分割线2"
                  sodipodi:nodetypes="cccc" />
@@ -2465,6 +3786,56 @@
                  inkscape:label="分割线5"
                  sodipodi:nodetypes="cc"
                  transform="translate(1.0625e-4,-1.1458333e-4)" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:0;stroke:#ffff00;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:1"
+                 d="m 878.59798,1125.7714 -2.00668,-0.01 -0.34211,0.041 -0.14314,0.045 -0.15949,0.081 -0.10226,0.088 c 0,0 -0.12858,0.1607 -0.13599,0.1652 -0.008,0.01 -0.10186,0.1586 -0.10186,0.1586 l -0.0768,0.1585 -0.0493,0.1815 -0.0455,0.1766 -0.0212,0.1198 0.003,0.5355 h 1.17543 l 0.003,-1.0883 0.034,-0.1527 0.0775,-0.093 0.18412,-0.031 1.71615,-10e-4 c 7.6e-4,-0.2639 -10e-4,-0.1021 -0.009,-0.3691 z"
+                 id="path98"
+                 sodipodi:nodetypes="ccccccccccccccccccccc"
+                 inkscape:label="分割线6" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:0;stroke:#ff0000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:1"
+                 d="m 13267.871,12174.789 h 0.391 v 0.59 l 0.02,0.08 0.06,0.08 0.06,0.03 0.09,0.04 0.122,0.03 0.165,0.03 h 0.49 v 0.498 l -0.692,0 -0.202,-0.03 -0.08,-0.04 -0.06,-0.04 c 0,0 -0.09,-0.09 -0.1,-0.09 l -0.09,-0.112 -0.09,-0.141 -0.06,-0.09 -0.03,-0.147 c 0,0 -0.01,-0.136 -0.01,-0.143 v -0.18 -0.108 z"
+                 id="path163"
+                 sodipodi:nodetypes="cccccccccccccccccccccccc"
+                 inkscape:label="分割线7"
+                 transform="translate(-12410.098,-11050.975)" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:0;stroke:#ffff00;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:1"
+                 d="m 13268.256,12174.789 h 0.424 v 0.333 l -0.02,0.17 -0.03,0.143 -0.03,0.1 -0.07,0.195 -0.07,0.13 -0.08,0.104 -0.08,0.1 -0.08,0.07 -0.102,0.03 -0.126,0.02 h -0.252 -0.459 v -0.512 h 0.582 l 0.09,-0.02 0.06,-0.03 0.07,-0.07 0.07,-0.08 0.07,-0.09 0.03,-0.07 0,-0.118 z"
+                 id="path164"
+                 sodipodi:nodetypes="ccccccccccccccccccccccccc"
+                 inkscape:label="分割线8"
+                 transform="translate(-12410.098,-11050.975)" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:0;stroke:#ff0000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:1"
+                 d="m 13288.703,12177.124 v 0.413 h -2.173 l -0.113,-0.01 -0.154,-0.03 -0.168,-0.08 -0.144,-0.07 -0.157,-0.111 -0.156,-0.128 -0.07,-0.08 -0.03,-0.08 -0.03,-0.118 v -0.131 -0.602 l 0.995,0 0,0.633 0.05,0.1 0.08,0.07 0.09,0.08 0.09,0.07 0.108,0.06 0.09,0.02 h 0.194 z"
+                 id="path99"
+                 sodipodi:nodetypes="cccccccccccccccccccccccc"
+                 transform="translate(-12410.098,-11050.975)"
+                 inkscape:label="分割线9" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:0;stroke:#55d400;stroke-width:0.025;stroke-dasharray:0.025, 0.075;stroke-dashoffset:0;stroke-opacity:1"
+                 d="m 13287.724,12177.127 2.102,0.01"
+                 id="path100"
+                 transform="translate(-12410.098,-11050.975)"
+                 inkscape:label="分割线10" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:0;stroke:#ffff00;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:1"
+                 d="m 883.36304,1108.2377 v 0.9221 h 1.21153 l 0.0878,-0.034 0.12991,-0.076 c 0,0 0.0907,-0.083 0.0907,-0.089 0,-0.01 0.0717,-0.1432 0.0717,-0.1432 l 0.0585,-0.1347 0.0527,-0.1241 0.032,-0.1344 0.0132,-0.1169 0.005,-0.1053 v -0.6242 h -0.48525 v 0.5043 l -0.008,0.063 -0.0381,0.056 -0.0585,0.035 -0.0876,0.01 z"
+                 id="path171"
+                 inkscape:label="分割线11" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:0;stroke:#ff0000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:1"
+                 d="m 884.63463,1107.582 h -0.58314 v 1.0489 l 0.0106,0.07 0.0278,0.072 0.0505,0.067 0.0632,0.068 0.0609,0.057 0.0754,0.053 0.0775,0.042 0.0878,0.036 0.12515,0.018 0.22119,0.024 0.18812,0.013 0.11562,0.01 0.54478,0.01 h 0.31009 v -0.4733 l -1.12568,-0.02 -0.11458,-0.028 c 0,0 -0.0758,-0.035 -0.0784,-0.04 0,-0.01 -0.0507,-0.082 -0.0507,-0.082 l -0.01,-0.1087 -0.004,-0.069 10e-4,-0.1449 z"
+                 id="path172"
+                 sodipodi:nodetypes="cccccccccccccccccccccccccc"
+                 inkscape:label="分割线12" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:0;stroke:#00ffff;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:1"
+                 d="m 886.0102,1108.6972 0.002,-0.4547 -0.90536,-0.01 -0.11165,0.016 -0.11271,0.031 -0.1405,0.053 -0.28416,0.1458 -0.10769,0.1148 -0.10213,0.1281 -0.0807,0.1476 -0.0693,0.1551 -0.0423,0.1376 -0.008,0.623 h 0.58923 l -0.009,-0.6148 0.009,-0.086 0.0415,-0.1034 0.0672,-0.095 0.0661,-0.065 0.10001,-0.068 0.0889,-0.038 0.10954,-0.037 0.1696,0.01 z"
+                 id="path173"
+                 sodipodi:nodetypes="cccccccccccccccccccccccc"
+                 inkscape:label="分割线13" />
             </g>
           </g>
           <text
@@ -2595,17 +3966,56 @@
                y="1142.5795">流火路天桥</tspan></text>
           <text
              xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5931px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#241c1c;fill-opacity:1;stroke-width:0.390909"
+             x="-1088.2189"
+             y="934.13611"
+             id="text148-61-1-9"
+             inkscape:label="标题12"
+             transform="rotate(-90,4.166665e-6,1.1041667e-4)"><tspan
+               sodipodi:role="line"
+               id="tspan148-02-3-8"
+               style="fill:#241c1c;stroke-width:0.390909"
+               x="-1088.2189"
+               y="934.13611">流火路里四条</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5931px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#241c1c;fill-opacity:1;stroke-width:0.390909"
+             x="-1088.141"
+             y="902.47296"
+             id="text148-61-1"
+             inkscape:label="标题11"
+             transform="rotate(-90,4.166665e-6,1.1041667e-4)"><tspan
+               sodipodi:role="line"
+               id="tspan148-02-3"
+               style="fill:#241c1c;stroke-width:0.390909"
+               x="-1088.141"
+               y="902.47296">流火路里三条</tspan></text>
+          <text
+             xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5931px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.390909"
              x="845.3175"
              y="1124.9371"
              id="text148"
-             inkscape:label="标题9"
+             inkscape:label="标题10"
              transform="translate(-1.0625e-4,1.1458333e-4)"><tspan
                sodipodi:role="line"
                id="tspan148"
                style="fill:#241c1c;stroke-width:0.390909"
                x="845.3175"
                y="1124.9371">流火路</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5931px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#241c1c;fill-opacity:1;stroke-width:0.390909"
+             x="-1088.2828"
+             y="870.60388"
+             id="text148-61"
+             inkscape:label="标题9"
+             transform="rotate(-90)"><tspan
+               sodipodi:role="line"
+               id="tspan148-02"
+               style="fill:#241c1c;stroke-width:0.390909"
+               x="-1088.2828"
+               y="870.60388">流火路里二条</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.5931px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#241c1c;fill-opacity:1;stroke-width:0.390909"
@@ -2710,26 +4120,763 @@
                style="fill:#241c1c;stroke-width:0.390909"
                x="889.69952"
                y="1108.9696">流火路</tspan></text>
+          <g
+             id="g186"
+             inkscape:label="总院站"
+             style="display:inline"
+             transform="translate(-1.0625e-4,1.1458333e-4)">
+            <text
+               xml:space="preserve"
+               style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401434px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#00ffff;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:0"
+               x="12145.03"
+               y="-13250.854"
+               id="text184"
+               transform="rotate(90,-679.56143,-11730.536)"
+               inkscape:label="标题"><tspan
+                 sodipodi:role="line"
+                 id="tspan185"
+                 x="12145.03"
+                 y="-13250.854">   总院站</tspan><tspan
+                 sodipodi:role="line"
+                 id="tspan186"
+                 x="12145.03"
+                 y="-13250.342">（一号线）</tspan></text>
+          </g>
         </g>
       </g>
     </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="备注"
-     style="display:none">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.381362px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
-       x="13246.828"
-       y="12343.412"
-       id="text19"
-       inkscape:label="城南快速路"><tspan
-         sodipodi:role="line"
-         id="tspan24"
-         x="0"
-         y="0">城南快速路是天上道路，前后方向不同高，左边高于右边</tspan></text>
+    <g
+       id="g195"
+       inkscape:label="杂鱼路">
+      <g
+         id="g196"
+         inkscape:label="区域规划">
+        <path
+           style="display:inline;mix-blend-mode:darken;fill:#ffffff;fill-opacity:1;stroke:#55d400;stroke-width:0.025;stroke-dasharray:0.025, 0.0750001;stroke-dashoffset:0;stroke-opacity:0"
+           d="m 13382.211,12110.6 -0.626,-54.553 3.471,-0.884 8.141,-1.28 0.256,42.291 -0.112,143.383 -11.747,0.936 -0.119,-98.33 0.253,-25.79 z"
+           id="path16-5"
+           inkscape:label="行人区域规划"
+           sodipodi:nodetypes="cccccccccc" />
+        <path
+           style="display:inline;fill:#d3e0f0;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.15;stroke-dasharray:0.899999, 0.899999;stroke-dashoffset:0;stroke-opacity:0"
+           d="m 970.34323,1005.1971 -0.0468,184.5014 2.01822,0.036 -0.0365,-184.5509 z"
+           id="path194"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="区域规划1"
+           transform="translate(12410.098,11050.975)" />
+        <g
+           id="g205"
+           inkscape:label="房屋">
+          <g
+             id="g208"
+             inkscape:label="市政府">
+            <g
+               id="g210"
+               inkscape:label="水利局">
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13382.727,12142.567 h 2.116 l 0,3.04 h -2.111 z"
+                 id="path43-9-3-5-1-7-2-1-8-2-0-2-7"
+                 inkscape:label="房屋1"
+                 sodipodi:nodetypes="ccccc" />
+            </g>
+            <g
+               id="g212"
+               inkscape:label="电力局"
+               style="display:inline">
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13385.199,12142.575 h 2.116 v 3.04 h -2.111 z"
+                 id="path43-9-3-5-1-7-2-1-8-2-0-2-7-4"
+                 inkscape:label="房屋1"
+                 sodipodi:nodetypes="ccccc" />
+            </g>
+            <g
+               id="g209"
+               inkscape:label="总办公区">
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13382.663,12136.173 h 2.116 v 4.537 h -2.111 z"
+                 id="path43-9-3-5-1-7-2-1-8-2"
+                 inkscape:label="房屋4"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13385.182,12136.151 h 2.116 v 4.537 h -2.111 z"
+                 id="path43-9-3-5-1-7-2-1-8-2-0"
+                 inkscape:label="房屋3"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13387.68,12136.135 h 2.116 v 4.537 h -2.111 z"
+                 id="path43-9-3-5-1-7-2-1-8-2-0-4"
+                 inkscape:label="房屋2"
+                 sodipodi:nodetypes="ccccc" />
+              <path
+                 style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.023;stroke-dasharray:0.023, 0.0459999;stroke-dashoffset:0;stroke-opacity:0"
+                 d="m 13390.185,12136.11 h 2.116 v 4.537 h -2.111 z"
+                 id="path43-9-3-5-1-7-2-1-8-2-0-2"
+                 inkscape:label="房屋1"
+                 sodipodi:nodetypes="ccccc" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g211"
+         inkscape:label="水利局">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401434px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.15;stroke-dasharray:0.899999, 0.899999;stroke-dashoffset:0;stroke-opacity:0"
+           x="-12145.225"
+           y="13383.857"
+           id="text206-66"
+           transform="rotate(-90)"
+           inkscape:label="标题1"><tspan
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.15"
+             x="-12145.225"
+             y="13383.857"
+             id="tspan207-5">安苵市水利局</tspan></text>
+      </g>
+      <g
+         id="g211-7"
+         inkscape:label="电力局"
+         style="display:inline"
+         transform="translate(2.4721511,0.00825781)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401434px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.15;stroke-dasharray:0.899999, 0.899999;stroke-dashoffset:0;stroke-opacity:0"
+           x="-12145.225"
+           y="13383.857"
+           id="text206-66-9"
+           transform="rotate(-90)"
+           inkscape:label="标题1"><tspan
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.15"
+             x="-12145.225"
+             y="13383.857"
+             id="tspan207-5-6">安苵市电力局</tspan></text>
+      </g>
+      <g
+         id="g207"
+         style="display:inline"
+         inkscape:label="市政府办公楼">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401434px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.15;stroke-dasharray:0.899999, 0.899999;stroke-dashoffset:0;stroke-opacity:0"
+           x="-12140.001"
+           y="13383.628"
+           id="text206"
+           transform="rotate(-90)"
+           inkscape:label="标题4"><tspan
+             sodipodi:role="line"
+             id="tspan206"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.15"
+             x="-12140.001"
+             y="13383.628">安苵市政府办公楼</tspan><tspan
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.15"
+             x="-12140.001"
+             y="13384.14"
+             id="tspan207">       一号楼</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401434px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.15;stroke-dasharray:0.899999, 0.899999;stroke-dashoffset:0;stroke-opacity:0"
+           x="-12140.063"
+           y="13386.163"
+           id="text206-0"
+           transform="rotate(-90)"
+           inkscape:label="标题3"><tspan
+             sodipodi:role="line"
+             id="tspan206-1"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.15"
+             x="-12140.063"
+             y="13386.163">安苵市政府办公楼</tspan><tspan
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.15"
+             x="-12140.063"
+             y="13386.675"
+             id="tspan207-0">       二号楼</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401434px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.15;stroke-dasharray:0.899999, 0.899999;stroke-dashoffset:0;stroke-opacity:0"
+           x="-12140.022"
+           y="13388.651"
+           id="text206-9"
+           transform="rotate(-90)"
+           inkscape:label="标题2"><tspan
+             sodipodi:role="line"
+             id="tspan206-3"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.15"
+             x="-12140.022"
+             y="13388.651">安苵市政府办公楼</tspan><tspan
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.15"
+             x="-12140.022"
+             y="13389.163"
+             id="tspan207-8">       三号楼</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401434px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.15;stroke-dasharray:0.899999, 0.899999;stroke-dashoffset:0;stroke-opacity:0"
+           x="-12139.989"
+           y="13391.19"
+           id="text206-6"
+           transform="rotate(-90)"
+           inkscape:label="标题1"><tspan
+             sodipodi:role="line"
+             id="tspan206-9"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.15"
+             x="-12139.989"
+             y="13391.19">安苵市政府办公楼</tspan><tspan
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.15"
+             x="-12139.989"
+             y="13391.702"
+             id="tspan207-2">       四号楼</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.22274px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.456891;stroke-dasharray:2.74134, 2.74134;stroke-dashoffset:0;stroke-opacity:0"
+         x="-12138.69"
+         y="13381.789"
+         id="text198"
+         inkscape:label="标题2"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan198"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.456891"
+           x="-12138.69"
+           y="13381.789">杂鱼路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.22274px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.456891;stroke-dasharray:2.74134, 2.74134;stroke-dashoffset:0;stroke-opacity:0"
+         x="-12170.036"
+         y="13381.799"
+         id="text198-9"
+         inkscape:label="标题1"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan198-3"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.456891"
+           x="-12170.036"
+           y="13381.799">杂鱼路</tspan></text>
+      <g
+         id="g197"
+         inkscape:label="标题">
+        <g
+           id="g198"
+           inkscape:label="方向">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="12133.33"
+             y="-13382.015"
+             id="text72-4-7-7-7-8-3-4-1-6-2-4-7"
+             inkscape:label="方向标识4"
+             transform="rotate(90)"><tspan
+               sodipodi:role="line"
+               id="tspan85-2"
+               x="12133.33"
+               y="-13382.015">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan86-0"
+               x="12133.33"
+               y="-13381.503">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan87-8"
+               x="12133.33"
+               y="-13380.991">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan88-8"
+               x="12133.33"
+               y="-13380.479">-&gt;</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="12140.508"
+             y="-13382.042"
+             id="text72-4-7-7-7-8-3-4-1-6-2-4-7-0"
+             inkscape:label="方向标识3"
+             transform="rotate(90)"><tspan
+               sodipodi:role="line"
+               id="tspan85-2-6"
+               x="12140.508"
+               y="-13382.042">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan86-0-9"
+               x="12140.508"
+               y="-13381.53">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan87-8-3"
+               x="12140.508"
+               y="-13381.019">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan88-8-9"
+               x="12140.508"
+               y="-13380.506">-&gt;</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="12142.252"
+             y="-13382.042"
+             id="text72-4-7-7-7-8-3-4-1-6-2-4-7-1"
+             inkscape:label="方向标识2"
+             transform="rotate(90)"><tspan
+               sodipodi:role="line"
+               id="tspan85-2-9"
+               x="12142.252"
+               y="-13382.042">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan86-0-8"
+               x="12142.252"
+               y="-13381.53">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan87-8-1"
+               x="12142.252"
+               y="-13381.019">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan88-8-3"
+               x="12142.252"
+               y="-13380.506">-&gt;</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="12159.83"
+             y="-13382.068"
+             id="text72-4-7-7-7-8-3-4-1-6-2-4-7-8"
+             inkscape:label="方向标识1"
+             transform="rotate(90)"><tspan
+               sodipodi:role="line"
+               id="tspan85-2-4"
+               x="12159.83"
+               y="-13382.068">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan86-0-0"
+               x="12159.83"
+               y="-13381.557">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan87-8-7"
+               x="12159.83"
+               y="-13381.045">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan88-8-6"
+               x="12159.83"
+               y="-13380.532">-&gt;</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g16"
+       inkscape:label="雫南路">
+      <g
+         id="g17"
+         inkscape:label="区域规划">
+        <path
+           style="display:inline;mix-blend-mode:color-burn;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-opacity:0"
+           d="m 13247.29,12196.134 c -0.02,-0.132 -0.03,-2.993 -0.03,-2.993 l -10.866,-0.07 -0.19,2.949 z"
+           id="path62"
+           inkscape:label="区域规划-范围1"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="mix-blend-mode:darken;fill:#d3e0f0;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-opacity:0"
+           d="m 13247.197,12196.352 v -0.851 l -9.709,-0.01 -0.149,-0.03 -0.114,-0.07 -0.104,-0.08 -0.09,-0.139 -0.02,-0.3 v -0.238 l 0.06,-0.188 0.09,-0.174 0.114,-0.118 0.18,-0.05 1.289,0.01 0.01,-1.863 h -1.642 -2.135 l -91.893,0 v 1.881 l 91.355,0 0.317,0.1 0.224,0.166 0.09,0.286 v 0.248 0.561 0.827 z"
+           id="path12"
+           inkscape:label="区域规划1"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
+      </g>
+      <g
+         id="g19"
+         inkscape:label="标题">
+        <g
+           id="g23"
+           inkscape:label="方向"
+           transform="translate(-0.68729656,-0.03307292)"
+           style="display:inline">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="-13234.854"
+             y="-12193.818"
+             id="text72-4-7-7-7-8-3-4-1-6-2-4-9-7-1"
+             inkscape:label="方向标识4"
+             transform="scale(-1)"><tspan
+               sodipodi:role="line"
+               id="tspan85-6-7-2"
+               x="-13234.854"
+               y="-12193.818">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan86-1-8-9"
+               x="-13234.854"
+               y="-12193.307">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan87-6-9-7"
+               x="-13234.854"
+               y="-12192.795">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan88-6-3-3"
+               x="-13234.854"
+               y="-12192.282">-&gt;</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="-13238.846"
+             y="-12193.848"
+             id="text72-4-7-7-7-8-3-4-1-6-2-4-9-7-1-6"
+             inkscape:label="方向标识3"
+             transform="scale(-1)"><tspan
+               sodipodi:role="line"
+               id="tspan85-6-7-2-7"
+               x="-13238.846"
+               y="-12193.848">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan86-1-8-9-0"
+               x="-13238.846"
+               y="-12193.336">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan87-6-9-7-8"
+               x="-13238.846"
+               y="-12192.824">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan88-6-3-3-9"
+               x="-13238.846"
+               y="-12192.312">-&gt;</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="12194.398"
+             y="-13237.355"
+             id="text72-4-7-7-7-8-3-4-1-6-2-4-9-6-2"
+             inkscape:label="方向标识2"
+             transform="rotate(90)"><tspan
+               sodipodi:role="line"
+               id="tspan85-6-2-8"
+               x="12194.398"
+               y="-13237.355">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan86-1-1-4"
+               x="12194.398"
+               y="-13236.844">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan87-6-4-6"
+               x="12194.398"
+               y="-13236.332">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan88-6-38-3"
+               x="12194.398"
+               y="-13235.82">-&gt;</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="-13664.482"
+             y="-11726.344"
+             id="text72-4-7-7-7-8-3-4-4-52-7-2-4-8-3-8-6-0"
+             inkscape:label="方向标识1"
+             transform="rotate(-178)"><tspan
+               sodipodi:role="line"
+               id="tspan146-2-8-2-6-2-5-4"
+               x="-13664.482"
+               y="-11726.344">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan147-0-5-5-0-6-7-5"
+               x="-13664.482"
+               y="-11725.832">-&gt;</tspan></text>
+          <g
+             id="g68"
+             inkscape:label="分割线">
+            <path
+               style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#55d400;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 13237.692,12194.972 v -0.846 l -0.03,-0.167 -0.06,-0.19 -0.09,-0.187 -0.117,-0.209 -0.139,-0.219 -0.185,-0.198 -0.161,-0.137 -0.218,-0.168 -0.253,-0.168 -0.303,-0.114 -0.326,-0.08 -0.803,0 v 0.945 l 0.721,0 0.214,0.06 0.125,0.08 0.155,0.124 0.184,0.19 0.14,0.174 0.111,0.163 0.06,0.171 0.02,0.242 v 0.271 0.265 z"
+               id="path68"
+               inkscape:label="方向标识2"
+               sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
+            <path
+               style="display:inline;fill:#ffff00;fill-opacity:0;stroke:#ffff00;stroke-width:0.01;stroke-dasharray:0.12, 0.12;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 13236.742,12194.99 -0.981,-0 v -1.741 l 0.05,-0.162 0.127,-0.234 0.159,-0.172 0.306,-0.187 0.231,-0.08 0.18,-0.07 0.278,-0.02 0.594,-0.03 0.617,-0.01 v 0.929 h -0.939 l -0.146,0.04 -0.117,0.06 -0.09,0.106 -0.07,0.123 -0.06,0.149 -0.06,0.171 -0.05,0.205 -0.03,0.213 -0.01,0.253 z"
+               id="path97-9"
+               inkscape:label="分割线3"
+               sodipodi:nodetypes="cccccccccccccccccccccccc" />
+            <path
+               style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#55d400;stroke-width:0.025;stroke-dasharray:0.025, 0.15;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 13238.749,12193.168 -34.201,0.02"
+               id="path63"
+               sodipodi:nodetypes="cc"
+               transform="translate(0.68729655,0.03307292)"
+               inkscape:label="方向标识1" />
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="display:inline;font-size:0.599219px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0149271;stroke-dasharray:0.179122, 0.179122;stroke-opacity:0"
+           x="13241.112"
+           y="12196.117"
+           id="text18"
+           inkscape:label="标题2"><tspan
+             sodipodi:role="line"
+             id="tspan18"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.0149271"
+             x="13241.112"
+             y="12196.117">雫南路</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:1.11648px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0278125;stroke-dasharray:0.333746, 0.333746;stroke-opacity:0"
+           x="13219.912"
+           y="12193.484"
+           id="text18-5"
+           inkscape:label="标题1"><tspan
+             sodipodi:role="line"
+             id="tspan18-0"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.0278125"
+             x="13219.912"
+             y="12193.484">雫南路</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g217"
+       inkscape:label="仙草快速路">
+      <g
+         id="g218"
+         inkscape:label="区域规划">
+        <path
+           style="fill:#d3e0f0;fill-opacity:1;stroke:#000000;stroke-width:0.15;stroke-dasharray:0.899999, 0.899999;stroke-dashoffset:0;stroke-opacity:0"
+           d="m 13393.481,12165.438 0.03,2.493 829.893,0 v -2.452 z"
+           id="path214"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="区域规划1" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.46201px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#2b0000;fill-opacity:1;stroke-width:0.639268"
+         x="13400.384"
+         y="12167.205"
+         id="text68-1-5"
+         inkscape:label="标题7"><tspan
+           sodipodi:role="line"
+           id="tspan68-4-0"
+           x="13400.384"
+           y="12167.205"
+           style="stroke-width:0.639268">仙草快速路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.46201px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#2b0000;fill-opacity:1;stroke-width:0.639268"
+         x="13468.619"
+         y="12167.21"
+         id="text68-1-5-5"
+         inkscape:label="标题6"><tspan
+           sodipodi:role="line"
+           id="tspan68-4-0-1"
+           x="13468.619"
+           y="12167.21"
+           style="stroke-width:0.639268">仙草快速路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.46201px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#2b0000;fill-opacity:1;stroke-width:0.639268"
+         x="13569.199"
+         y="12167.124"
+         id="text68-1-5-6"
+         inkscape:label="标题5"><tspan
+           sodipodi:role="line"
+           id="tspan68-4-0-13"
+           x="13569.199"
+           y="12167.124"
+           style="stroke-width:0.639268">仙草快速路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.46201px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#2b0000;fill-opacity:1;stroke-width:0.639268"
+         x="13641.438"
+         y="12167.279"
+         id="text68-1-5-2"
+         inkscape:label="标题4"><tspan
+           sodipodi:role="line"
+           id="tspan68-4-0-7"
+           x="13641.438"
+           y="12167.279"
+           style="stroke-width:0.639268">仙草快速路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.46201px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#2b0000;fill-opacity:1;stroke-width:0.639268"
+         x="13751.17"
+         y="12167.295"
+         id="text68-1-5-0"
+         inkscape:label="标题3"><tspan
+           sodipodi:role="line"
+           id="tspan68-4-0-3"
+           x="13751.17"
+           y="12167.295"
+           style="stroke-width:0.639268">仙草快速路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.46201px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#2b0000;fill-opacity:1;stroke-width:0.639268"
+         x="13919.545"
+         y="12167.295"
+         id="text68-1-5-57"
+         inkscape:label="标题2"><tspan
+           sodipodi:role="line"
+           id="tspan68-4-0-0"
+           x="13919.545"
+           y="12167.295"
+           style="stroke-width:0.639268">仙草快速路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.46201px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#2b0000;fill-opacity:1;stroke-width:0.639268"
+         x="14117.089"
+         y="12167.295"
+         id="text68-1-5-1"
+         inkscape:label="标题1"><tspan
+           sodipodi:role="line"
+           id="tspan68-4-0-2"
+           x="14117.089"
+           y="12167.295"
+           style="stroke-width:0.639268">仙草快速路</tspan></text>
+      <g
+         id="g219"
+         inkscape:label="标题">
+        <g
+           id="g220"
+           inkscape:label="方向">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.511063px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.223467"
+             x="-13180.196"
+             y="-12399.415"
+             id="text72-4-7-7-7-8-3-4-4-52-7-2-4-8-3-6-1-2-5-9-8-4-1"
+             inkscape:label="方向标识1"
+             transform="rotate(179)"><tspan
+               sodipodi:role="line"
+               id="tspan214"
+               x="-13180.196"
+               y="-12399.415">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan215"
+               x="-13180.196"
+               y="-12398.764">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan216"
+               x="-13180.196"
+               y="-12398.111">-&gt;</tspan><tspan
+               sodipodi:role="line"
+               id="tspan217"
+               x="-13180.196"
+               y="-12397.46">-&gt;</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g199"
+       inkscape:label="八仙路"
+       style="display:inline">
+      <g
+         id="g200"
+         inkscape:label="区域规划">
+        <path
+           style="display:inline;fill:#d3e0f0;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.15;stroke-dasharray:0.899999, 0.899999;stroke-dashoffset:0;stroke-opacity:0"
+           d="m 13381.534,12141.14 v 0.914 h 11.273 v 50.525 l 1.045,0.01 -0.03,-50.535 h 16.29 l 0,50.141 1.122,-0.01 -0.01,-50.092 v -0.949 h -17.397 v -87.446 h -1.009 v 87.454 z"
+           id="path198"
+           sodipodi:nodetypes="cccccccccccccccc"
+           inkscape:label="区域规划1" />
+        <path
+           style="display:inline;fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.15;stroke-dasharray:0.899999, 0.899999;stroke-dashoffset:0;stroke-opacity:0"
+           d="m 13410.113,12160.637 h 1.114 l 0,12.291 -1.118,0.02 z"
+           id="path220"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <g
+         id="g201"
+         inkscape:label="标题">
+        <g
+           id="g221"
+           inkscape:label="天桥"
+           style="display:inline">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.898821px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.335857;stroke-dasharray:2.01514, 2.01514;stroke-dashoffset:0;stroke-opacity:0"
+             x="-12168.688"
+             y="13410.979"
+             id="text198-9-3"
+             inkscape:label="标题1"
+             transform="rotate(-90)"><tspan
+               sodipodi:role="line"
+               id="tspan198-3-1"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.335857"
+               x="-12168.688"
+               y="13410.979">八仙路天桥</tspan></text>
+        </g>
+        <g
+           id="g202"
+           inkscape:label="方向">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="-12141.174"
+             y="13393.16"
+             id="text72-4-7-7-7-8-3-0"
+             transform="rotate(-90)"
+             inkscape:label="方向标识1"><tspan
+               sodipodi:role="line"
+               id="tspan202">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan203">-&gt;</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="13392.094"
+             y="12141.494"
+             id="text72-4-7-7-7-8-3-0-0"
+             inkscape:label="方向标识2"><tspan
+               sodipodi:role="line"
+               id="tspan204">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan205">-&gt;</tspan></text>
+          <text
+             xml:space="preserve"
+             style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="13395.625"
+             y="12141.224"
+             id="text72-4-7-7-7-8-3-0-0-3-9"
+             inkscape:label="方向标识3"
+             transform="translate(-13.204167,0.20541667)"><tspan
+               sodipodi:role="line"
+               id="tspan204-0-5"
+               x="13395.625"
+               y="12141.224">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan205-0-7"
+               x="13395.625"
+               y="12141.735">-&gt;</tspan></text>
+          <text
+             xml:space="preserve"
+             style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="13393.044"
+             y="12141.252"
+             id="text72-4-7-7-7-8-3-0-0-6"
+             inkscape:label="方向标识4"
+             transform="translate(-13.204167,0.20541667)"><tspan
+               sodipodi:role="line"
+               id="tspan204-6"
+               x="13393.044"
+               y="12141.252">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan205-9"
+               x="13393.044"
+               y="12141.764">-&gt;</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.401435px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#55d400;fill-opacity:1;stroke-width:0.175531"
+             x="13393.918"
+             y="12141.475"
+             id="text72-4-7-7-7-8-3-0-0-3"
+             inkscape:label="方向标识5"><tspan
+               sodipodi:role="line"
+               id="tspan204-0"
+               x="13393.918"
+               y="12141.475">&lt;-</tspan><tspan
+               sodipodi:role="line"
+               id="tspan205-0"
+               x="13393.918"
+               y="12141.986">-&gt;</tspan></text>
+        </g>
+      </g>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2760,11 +4907,55 @@
            x="13250.963"
            y="12159.48"
            id="text20-46-7-5-6-2-5-7-2-0"
-           inkscape:label="高度4"><tspan
+           inkscape:label="高度8"><tspan
              sodipodi:role="line"
              id="tspan79"
              x="13250.963"
              y="12159.48">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.728534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.0136779;stroke-dasharray:0.0136779, 0.0273557;stroke-dashoffset:0;stroke-opacity:0"
+           x="13247.115"
+           y="12196.143"
+           id="text20-46-7-5-6-2-5-7-2-0-5"
+           inkscape:label="高度7"><tspan
+             sodipodi:role="line"
+             id="tspan79-4"
+             x="13247.115"
+             y="12196.143">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.728534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.0136779;stroke-dasharray:0.0136779, 0.0273557;stroke-dashoffset:0;stroke-opacity:0"
+           x="13249.065"
+           y="12196.126"
+           id="text20-46-7-5-6-2-5-7-2-0-7"
+           inkscape:label="高度6"><tspan
+             sodipodi:role="line"
+             id="tspan79-2"
+             x="13249.065"
+             y="12196.126">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.728534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.0136779;stroke-dasharray:0.0136779, 0.0273557;stroke-dashoffset:0;stroke-opacity:0"
+           x="13250.39"
+           y="12196.165"
+           id="text20-46-7-5-6-2-5-7-2-0-7-3"
+           inkscape:label="高度5"><tspan
+             sodipodi:role="line"
+             id="tspan79-2-9"
+             x="13250.39"
+             y="12196.165">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.728534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.0136779;stroke-dasharray:0.0136779, 0.0273557;stroke-dashoffset:0;stroke-opacity:0"
+           x="13252.184"
+           y="12195.748"
+           id="text20-46-7-5-6-2-5-7-2-0-7-2"
+           inkscape:label="高度4"><tspan
+             sodipodi:role="line"
+             id="tspan79-2-1"
+             x="13252.184"
+             y="12195.748">0</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.728534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.0136779;stroke-dasharray:0.0136779, 0.0273557;stroke-dashoffset:0;stroke-opacity:0"
@@ -2954,14 +5145,47 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.66457px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.0312515;stroke-dasharray:0.0312515, 0.0625026;stroke-dashoffset:0;stroke-opacity:0"
+           x="13239.74"
+           y="12193.734"
+           id="text20-4-5-3-6-9-3-1-7-6-5-3-9-0-8"
+           inkscape:label="高度24"><tspan
+             sodipodi:role="line"
+             id="tspan59"
+             x="13239.74"
+             y="12193.734">2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.66457px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.0312515;stroke-dasharray:0.0312515, 0.0625026;stroke-dashoffset:0;stroke-opacity:0"
+           x="13238.665"
+           y="12193.771"
+           id="text20-4-5-3-6-9-3-1-7-6-5-3-9-0-8-1"
+           inkscape:label="高度23"><tspan
+             sodipodi:role="line"
+             id="tspan60"
+             x="13238.665"
+             y="12193.771">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.66457px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.0312515;stroke-dasharray:0.0312515, 0.0625026;stroke-dashoffset:0;stroke-opacity:0"
            x="13241.989"
            y="12193.763"
            id="text20-4-5-3-6-9-3-1-7-6-5-3-9"
-           inkscape:label="高度21"><tspan
+           inkscape:label="高度22"><tspan
              sodipodi:role="line"
              id="tspan43"
              x="13241.989"
              y="12193.763">4</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.66457px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.0312515;stroke-dasharray:0.0312515, 0.0625026;stroke-dashoffset:0;stroke-opacity:0"
+           x="13240.851"
+           y="12193.713"
+           id="text20-4-5-3-6-9-3-1-7-6-5-3-9-0"
+           inkscape:label="高度21"><tspan
+             sodipodi:role="line"
+             id="tspan58"
+             x="13240.851"
+             y="12193.713">3</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.66457px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.0312515;stroke-dasharray:0.0312515, 0.0625026;stroke-dashoffset:0;stroke-opacity:0"
@@ -3193,6 +5417,22 @@
       </g>
     </g>
     <g
+       id="g58"
+       style="display:inline"
+       inkscape:label="雫南路">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.728534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.0136779;stroke-dasharray:0.0136779, 0.0273557;stroke-dashoffset:0;stroke-opacity:0"
+         x="13243.746"
+         y="12196.242"
+         id="text20-46-7-5-6-2-5-7-2-0-6"
+         inkscape:label="高度1"><tspan
+           sodipodi:role="line"
+           id="tspan79-5"
+           x="13243.746"
+           y="12196.242">0</tspan></text>
+    </g>
+    <g
        id="g30"
        inkscape:label="城南快速路"
        style="display:inline">
@@ -3200,6 +5440,18 @@
          id="g22-6"
          inkscape:label="左侧"
          transform="translate(-4.0781328,-0.90246615)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.778746px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.0146206;stroke-dasharray:0.0146206, 0.029241;stroke-dashoffset:0;stroke-opacity:0"
+           x="13247.469"
+           y="12196.144"
+           id="text20-4-5-3-6-9-3-1-7-6-9-0"
+           inkscape:label="高度16"
+           transform="translate(4.0781328,0.90246615)"><tspan
+             sodipodi:role="line"
+             id="tspan32-0"
+             x="13247.469"
+             y="12196.144">12</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.778746px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.0146206;stroke-dasharray:0.0146206, 0.029241;stroke-dashoffset:0;stroke-opacity:0"
@@ -3277,11 +5529,22 @@
            x="13250.846"
            y="12144.704"
            id="text20-4-5-3-6-9-3-1-7-6-9-4-9-9-3"
-           inkscape:label="高度15"><tspan
+           inkscape:label="高度16"><tspan
              sodipodi:role="line"
              id="tspan37-3-1"
              x="13250.846"
              y="12144.704">4</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.778746px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.0146206;stroke-dasharray:0.0146206, 0.029241;stroke-dashoffset:0;stroke-opacity:0"
+           x="13251.394"
+           y="12197.025"
+           id="text20-4-5-3-6-9-3-1-7-6-9-4-9-9-3-5"
+           inkscape:label="高度15"><tspan
+             sodipodi:role="line"
+             id="tspan37-3-1-7"
+             x="13251.394"
+             y="12197.025">4</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.778746px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.0146206;stroke-dasharray:0.0146206, 0.029241;stroke-dashoffset:0;stroke-opacity:0"
@@ -3337,6 +5600,56 @@
              id="tspan37"
              x="13251.331"
              y="12192.894">4</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="地铁线路"
+     style="display:inline">
+    <g
+       id="g191"
+       inkscape:label="路径">
+      <g
+         id="g189"
+         inkscape:label="一号线">
+        <path
+           style="display:inline;fill:#000000;fill-opacity:0;stroke:#00ffff;stroke-width:0.15;stroke-dasharray:0.9, 0.9;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 860.34087,886.5644 -14.01788,208.3137 2.15572,151.9631"
+           id="path189"
+           transform="translate(12404.368,11051.111)"
+           sodipodi:nodetypes="ccc" />
+      </g>
+      <g
+         id="g190"
+         inkscape:label="五号线">
+        <path
+           style="fill:#ff7f2a;fill-opacity:0;stroke:#ff7f2a;stroke-width:0.15;stroke-dasharray:0.899999, 0.899999;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 13420.389,12057.759 -198.974,81.963 -41.593,1.742 -215.371,127.53"
+           id="path190"
+           sodipodi:nodetypes="cccc"
+           inkscape:label="路径" />
+      </g>
+    </g>
+    <g
+       id="g192"
+       inkscape:label="换乘点">
+      <g
+         id="g193"
+         inkscape:label="五号线">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.0144px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.379044;stroke-dasharray:2.27424, 2.27424;stroke-dashoffset:0;stroke-opacity:0"
+           x="13249.243"
+           y="12127.163"
+           id="text190"
+           inkscape:label="五号线换乘1"><tspan
+             sodipodi:role="line"
+             id="tspan190"
+             style="fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.379044;stroke-opacity:0"
+             x="13249.243"
+             y="12127.163">一号线-五号线换乘</tspan></text>
       </g>
     </g>
   </g>
