@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#8e8e8e"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="50251.25"
-     inkscape:cy="46248.672"
+     inkscape:zoom="4"
+     inkscape:cx="50169"
+     inkscape:cy="45726.125"
      inkscape:window-width="3840"
      inkscape:window-height="2126"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g34"
      showgrid="false"
      showguides="true"
      shape-rendering="auto"
@@ -63,6 +63,19 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline">
+    <g
+       id="g33"
+       inkscape:label="？？？">
+      <g
+         id="g34"
+         inkscape:label="区域规划">
+        <path
+           style="display:inline;fill:#ffffff;stroke:#ff0000;stroke-width:0.15;stroke-dasharray:0.899999, 0.899999"
+           d="m 13248.17,12131.648 -1.24,-64.756 20.229,1.005 16.125,-0.07 19.48,-1.216 28.005,-1.777 12.722,-1.263 37.605,-7.297 v 75.912 z"
+           id="path20"
+           inkscape:label="区域规划1" />
+      </g>
+    </g>
     <g
        id="g4"
        inkscape:label="Www（小区）">
@@ -1930,7 +1943,7 @@
         </g>
         <path
            style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.01;stroke-dasharray:0.01, 0.02;stroke-dashoffset:0;stroke-opacity:0"
-           d="m 13385.765,12193.887 -91.475,-0.629 0.03,-51.159 87.205,-0.297 z"
+           d="m 13385.765,12193.887 -91.475,-0.629 0.751,-51.202 85.444,-0.02 z"
            id="path17-4"
            sodipodi:nodetypes="ccccc"
            inkscape:label="行人区域规划1"
@@ -5404,6 +5417,57 @@
            id="path220"
            sodipodi:nodetypes="ccccc" />
       </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.898821px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.335857;stroke-dasharray:2.01514, 2.01514;stroke-dashoffset:0;stroke-opacity:0"
+         x="-12149.049"
+         y="13410.956"
+         id="text198-9-3-4"
+         inkscape:label="标题4"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan198-3-1-7"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.335857"
+           x="-12149.049"
+           y="13410.956">八仙路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.695491px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.259879;stroke-dasharray:1.55927, 1.55927;stroke-dashoffset:0;stroke-opacity:0"
+         x="13385.762"
+         y="12141.852"
+         id="text198-9-3-4-0"
+         inkscape:label="标题3"><tspan
+           sodipodi:role="line"
+           id="tspan198-3-1-7-3"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.259879"
+           x="13385.762"
+           y="12141.852">八仙路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.695491px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.259879;stroke-dasharray:1.55927, 1.55927;stroke-dashoffset:0;stroke-opacity:0"
+         x="13400.74"
+         y="12141.912"
+         id="text198-9-3-4-0-3"
+         inkscape:label="标题2"
+         inkscape:transform-center-x="0.29765625"><tspan
+           sodipodi:role="line"
+           id="tspan198-3-1-7-3-6"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.259879"
+           x="13400.74"
+           y="12141.912">八仙路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.898821px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#ff7f2a;stroke-width:0.335857;stroke-dasharray:2.01514, 2.01514;stroke-dashoffset:0;stroke-opacity:0"
+         x="-12188.601"
+         y="13410.962"
+         id="text198-9-3-4-8"
+         inkscape:label="标题1"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan198-3-1-7-2"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.335857"
+           x="-12188.601"
+           y="13410.962">八仙路</tspan></text>
       <g
          id="g201"
          inkscape:label="标题">
